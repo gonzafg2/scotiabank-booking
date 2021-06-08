@@ -2,2769 +2,3807 @@
   {
     "id_region": "01",
     "region": "I - Tarapacá",
-    "id_comuna": "011",
+    "id_provincia": "011",
     "provincia": "Iquique",
-    "id_comuna__1": "01101",
-    "comuna": "Iquique"
+    "id_comuna": "01101",
+    "comuna": "Iquique",
+    "id_sucursal": "01101",
+    "sucursal": "Sucursal A1",
+    "direccion": "Av. Los Carrera 1025"
   },
   {
     "id_region": "01",
     "region": "I - Tarapacá",
-    "id_comuna": "011",
+    "id_provincia": "011",
     "provincia": "Iquique",
-    "id_comuna__1": "01107",
-    "comuna": "Alto Hospicio"
+    "id_comuna": "01107",
+    "comuna": "Alto Hospicio",
+    "id_sucursal": "01102",
+    "sucursal": "Sucursal A2",
+    "direccion": "Av. Los Carrera 524"
   },
   {
     "id_region": "01",
     "region": "I - Tarapacá",
-    "id_comuna": "014",
+    "id_provincia": "014",
     "provincia": "Tamarugal",
-    "id_comuna__1": "01401",
-    "comuna": "Pozo Almonte"
+    "id_comuna": "01401",
+    "comuna": "Pozo Almonte",
+    "id_sucursal": "01103",
+    "sucursal": "Sucursal A3",
+    "direccion": "Av. Los Carrera 23"
   },
   {
     "id_region": "01",
     "region": "I - Tarapacá",
-    "id_comuna": "014",
+    "id_provincia": "014",
     "provincia": "Tamarugal",
-    "id_comuna__1": "01402",
-    "comuna": "Camiña"
+    "id_comuna": "01402",
+    "comuna": "Camiña",
+    "id_sucursal": "01104",
+    "sucursal": "Sucursal A4",
+    "direccion": "Av. Los Carrera -478"
   },
   {
     "id_region": "01",
     "region": "I - Tarapacá",
-    "id_comuna": "014",
+    "id_provincia": "014",
     "provincia": "Tamarugal",
-    "id_comuna__1": "01403",
-    "comuna": "Colchane"
+    "id_comuna": "01403",
+    "comuna": "Colchane",
+    "id_sucursal": "01105",
+    "sucursal": "Sucursal A5",
+    "direccion": "Av. Los Carrera -979"
   },
   {
     "id_region": "01",
     "region": "I - Tarapacá",
-    "id_comuna": "014",
+    "id_provincia": "014",
     "provincia": "Tamarugal",
-    "id_comuna__1": "01404",
-    "comuna": "Huara"
+    "id_comuna": "01404",
+    "comuna": "Huara",
+    "id_sucursal": "01106",
+    "sucursal": "Sucursal A6",
+    "direccion": "Av. Los Carrera -1480"
   },
   {
     "id_region": "01",
     "region": "I - Tarapacá",
-    "id_comuna": "014",
+    "id_provincia": "014",
     "provincia": "Tamarugal",
-    "id_comuna__1": "01405",
-    "comuna": "Pica"
+    "id_comuna": "01405",
+    "comuna": "Pica",
+    "id_sucursal": "01107",
+    "sucursal": "Sucursal A7",
+    "direccion": "Av. Los Carrera -1981"
   },
   {
     "id_region": "02",
     "region": "II - Antofagasta",
-    "id_comuna": "021",
+    "id_provincia": "021",
     "provincia": "Antofagasta",
-    "id_comuna__1": "02101",
-    "comuna": "Antofagasta"
+    "id_comuna": "02101",
+    "comuna": "Antofagasta",
+    "id_sucursal": "01108",
+    "sucursal": "Sucursal A8",
+    "direccion": "Av. Los Carrera -2482"
   },
   {
     "id_region": "02",
     "region": "II - Antofagasta",
-    "id_comuna": "021",
+    "id_provincia": "021",
     "provincia": "Antofagasta",
-    "id_comuna__1": "02102",
-    "comuna": "Mejillones"
+    "id_comuna": "02102",
+    "comuna": "Mejillones",
+    "id_sucursal": "01109",
+    "sucursal": "Sucursal A9",
+    "direccion": "Av. Los Carrera -2983"
   },
   {
     "id_region": "02",
     "region": "II - Antofagasta",
-    "id_comuna": "021",
+    "id_provincia": "021",
     "provincia": "Antofagasta",
-    "id_comuna__1": "02103",
-    "comuna": "Sierra Gorda"
+    "id_comuna": "02103",
+    "comuna": "Sierra Gorda",
+    "id_sucursal": "01110",
+    "sucursal": "Sucursal A10",
+    "direccion": "Av. Los Carrera -3484"
   },
   {
     "id_region": "02",
     "region": "II - Antofagasta",
-    "id_comuna": "021",
+    "id_provincia": "021",
     "provincia": "Antofagasta",
-    "id_comuna__1": "02104",
-    "comuna": "Taltal"
+    "id_comuna": "02104",
+    "comuna": "Taltal",
+    "id_sucursal": "01111",
+    "sucursal": "Sucursal A11",
+    "direccion": "Av. Los Carrera -3985"
   },
   {
     "id_region": "02",
     "region": "II - Antofagasta",
-    "id_comuna": "022",
+    "id_provincia": "022",
     "provincia": "El Loa",
-    "id_comuna__1": "02201",
-    "comuna": "Calama"
+    "id_comuna": "02201",
+    "comuna": "Calama",
+    "id_sucursal": "01112",
+    "sucursal": "Sucursal A12",
+    "direccion": "Av. Los Carrera -4486"
   },
   {
     "id_region": "02",
     "region": "II - Antofagasta",
-    "id_comuna": "022",
+    "id_provincia": "022",
     "provincia": "El Loa",
-    "id_comuna__1": "02202",
-    "comuna": "Ollague"
+    "id_comuna": "02202",
+    "comuna": "Ollague",
+    "id_sucursal": "01113",
+    "sucursal": "Sucursal A13",
+    "direccion": "Av. Los Carrera -4987"
   },
   {
     "id_region": "02",
     "region": "II - Antofagasta",
-    "id_comuna": "022",
+    "id_provincia": "022",
     "provincia": "El Loa",
-    "id_comuna__1": "02203",
-    "comuna": "San Pedro De Atacama"
+    "id_comuna": "02203",
+    "comuna": "San Pedro De Atacama",
+    "id_sucursal": "01114",
+    "sucursal": "Sucursal A14",
+    "direccion": "Av. Los Carrera -5488"
   },
   {
     "id_region": "02",
     "region": "II - Antofagasta",
-    "id_comuna": "023",
+    "id_provincia": "023",
     "provincia": "Tocopilla",
-    "id_comuna__1": "02301",
-    "comuna": "Tocopilla"
+    "id_comuna": "02301",
+    "comuna": "Tocopilla",
+    "id_sucursal": "01115",
+    "sucursal": "Sucursal A15",
+    "direccion": "Av. Los Carrera -5989"
   },
   {
     "id_region": "02",
     "region": "II - Antofagasta",
-    "id_comuna": "023",
+    "id_provincia": "023",
     "provincia": "Tocopilla",
-    "id_comuna__1": "02302",
-    "comuna": "María Elena"
+    "id_comuna": "02302",
+    "comuna": "María Elena",
+    "id_sucursal": "01116",
+    "sucursal": "Sucursal A16",
+    "direccion": "Av. Los Carrera -6490"
   },
   {
     "id_region": "03",
-    "region": "III - Atacama",
-    "id_comuna": "031",
+    "region": "III – Atacama",
+    "id_provincia": "031",
     "provincia": "Copiapó",
-    "id_comuna__1": "03101",
-    "comuna": "Copiapó"
+    "id_comuna": "03101",
+    "comuna": "Copiapó",
+    "id_sucursal": "01117",
+    "sucursal": "Sucursal A17",
+    "direccion": "Av. Los Carrera -6991"
   },
   {
     "id_region": "03",
-    "region": "III - Atacama",
-    "id_comuna": "031",
+    "region": "III – Atacama",
+    "id_provincia": "031",
     "provincia": "Copiapó",
-    "id_comuna__1": "03102",
-    "comuna": "Caldera"
+    "id_comuna": "03102",
+    "comuna": "Caldera",
+    "id_sucursal": "01118",
+    "sucursal": "Sucursal A18",
+    "direccion": "Av. Los Carrera -7492"
   },
   {
     "id_region": "03",
-    "region": "III - Atacama",
-    "id_comuna": "031",
+    "region": "III – Atacama",
+    "id_provincia": "031",
     "provincia": "Copiapó",
-    "id_comuna__1": "03103",
-    "comuna": "Tierra Amarilla"
+    "id_comuna": "03103",
+    "comuna": "Tierra Amarilla",
+    "id_sucursal": "01119",
+    "sucursal": "Sucursal A19",
+    "direccion": "Av. Los Carrera -7993"
   },
   {
     "id_region": "03",
-    "region": "III - Atacama",
-    "id_comuna": "032",
+    "region": "III – Atacama",
+    "id_provincia": "032",
     "provincia": "Chañaral",
-    "id_comuna__1": "03201",
-    "comuna": "Chañaral"
+    "id_comuna": "03201",
+    "comuna": "Chañaral",
+    "id_sucursal": "01120",
+    "sucursal": "Sucursal A20",
+    "direccion": "Av. Los Carrera -8494"
   },
   {
     "id_region": "03",
-    "region": "III - Atacama",
-    "id_comuna": "032",
+    "region": "III – Atacama",
+    "id_provincia": "032",
     "provincia": "Chañaral",
-    "id_comuna__1": "03202",
-    "comuna": "Diego De Almagro"
+    "id_comuna": "03202",
+    "comuna": "Diego De Almagro",
+    "id_sucursal": "01121",
+    "sucursal": "Sucursal A21",
+    "direccion": "Av. Los Carrera -8995"
   },
   {
     "id_region": "03",
-    "region": "III - Atacama",
-    "id_comuna": "033",
+    "region": "III – Atacama",
+    "id_provincia": "033",
     "provincia": "Huasco",
-    "id_comuna__1": "03301",
-    "comuna": "Vallenar"
+    "id_comuna": "03301",
+    "comuna": "Vallenar",
+    "id_sucursal": "01122",
+    "sucursal": "Sucursal A22",
+    "direccion": "Av. Los Carrera -9496"
   },
   {
     "id_region": "03",
-    "region": "III - Atacama",
-    "id_comuna": "033",
+    "region": "III – Atacama",
+    "id_provincia": "033",
     "provincia": "Huasco",
-    "id_comuna__1": "03302",
-    "comuna": "Alto Del Carmen"
+    "id_comuna": "03302",
+    "comuna": "Alto Del Carmen",
+    "id_sucursal": "01123",
+    "sucursal": "Sucursal A23",
+    "direccion": "Av. Los Carrera -9997"
   },
   {
     "id_region": "03",
-    "region": "III - Atacama",
-    "id_comuna": "033",
+    "region": "III – Atacama",
+    "id_provincia": "033",
     "provincia": "Huasco",
-    "id_comuna__1": "03303",
-    "comuna": "Freirina"
+    "id_comuna": "03303",
+    "comuna": "Freirina",
+    "id_sucursal": "01124",
+    "sucursal": "Sucursal A24",
+    "direccion": "Av. Los Carrera -10498"
   },
   {
     "id_region": "03",
-    "region": "III - Atacama",
-    "id_comuna": "033",
+    "region": "III – Atacama",
+    "id_provincia": "033",
     "provincia": "Huasco",
-    "id_comuna__1": "03304",
-    "comuna": "Huasco"
+    "id_comuna": "03304",
+    "comuna": "Huasco",
+    "id_sucursal": "01125",
+    "sucursal": "Sucursal A25",
+    "direccion": "Av. Los Carrera -10999"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "041",
+    "region": "IV – Coquimbo",
+    "id_provincia": "041",
     "provincia": "Elqui",
-    "id_comuna__1": "04101",
-    "comuna": "La Serena"
+    "id_comuna": "04101",
+    "comuna": "La Serena",
+    "id_sucursal": "01126",
+    "sucursal": "Sucursal A26",
+    "direccion": "Av. Los Carrera -11500"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "041",
+    "region": "IV – Coquimbo",
+    "id_provincia": "041",
     "provincia": "Elqui",
-    "id_comuna__1": "04102",
-    "comuna": "Coquimbo"
+    "id_comuna": "04102",
+    "comuna": "Coquimbo",
+    "id_sucursal": "01127",
+    "sucursal": "Sucursal A27",
+    "direccion": "Av. Los Carrera -12001"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "041",
+    "region": "IV – Coquimbo",
+    "id_provincia": "041",
     "provincia": "Elqui",
-    "id_comuna__1": "04103",
-    "comuna": "Andacollo"
+    "id_comuna": "04103",
+    "comuna": "Andacollo",
+    "id_sucursal": "01128",
+    "sucursal": "Sucursal A28",
+    "direccion": "Av. Los Carrera -12502"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "041",
+    "region": "IV – Coquimbo",
+    "id_provincia": "041",
     "provincia": "Elqui",
-    "id_comuna__1": "04104",
-    "comuna": "La Higuera"
+    "id_comuna": "04104",
+    "comuna": "La Higuera",
+    "id_sucursal": "01129",
+    "sucursal": "Sucursal A29",
+    "direccion": "Av. Los Carrera -13003"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "041",
+    "region": "IV – Coquimbo",
+    "id_provincia": "041",
     "provincia": "Elqui",
-    "id_comuna__1": "04105",
-    "comuna": "Paiguano"
+    "id_comuna": "04105",
+    "comuna": "Paiguano",
+    "id_sucursal": "01130",
+    "sucursal": "Sucursal A30",
+    "direccion": "Av. Los Carrera -13504"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "041",
+    "region": "IV – Coquimbo",
+    "id_provincia": "041",
     "provincia": "Elqui",
-    "id_comuna__1": "04106",
-    "comuna": "Vicuña"
+    "id_comuna": "04106",
+    "comuna": "Vicuña",
+    "id_sucursal": "01131",
+    "sucursal": "Sucursal A31",
+    "direccion": "Av. Los Carrera -14005"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "042",
+    "region": "IV – Coquimbo",
+    "id_provincia": "042",
     "provincia": "Choapa",
-    "id_comuna__1": "04201",
-    "comuna": "Illapel"
+    "id_comuna": "04201",
+    "comuna": "Illapel",
+    "id_sucursal": "01132",
+    "sucursal": "Sucursal A32",
+    "direccion": "Av. Los Carrera -14506"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "042",
+    "region": "IV – Coquimbo",
+    "id_provincia": "042",
     "provincia": "Choapa",
-    "id_comuna__1": "04202",
-    "comuna": "Canela"
+    "id_comuna": "04202",
+    "comuna": "Canela",
+    "id_sucursal": "01133",
+    "sucursal": "Sucursal A33",
+    "direccion": "Av. Los Carrera -15007"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "042",
+    "region": "IV – Coquimbo",
+    "id_provincia": "042",
     "provincia": "Choapa",
-    "id_comuna__1": "04203",
-    "comuna": "Los Vilos"
+    "id_comuna": "04203",
+    "comuna": "Los Vilos",
+    "id_sucursal": "01134",
+    "sucursal": "Sucursal A34",
+    "direccion": "Av. Los Carrera -15508"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "042",
+    "region": "IV – Coquimbo",
+    "id_provincia": "042",
     "provincia": "Choapa",
-    "id_comuna__1": "04204",
-    "comuna": "Salamanca"
+    "id_comuna": "04204",
+    "comuna": "Salamanca",
+    "id_sucursal": "01135",
+    "sucursal": "Sucursal A35",
+    "direccion": "Av. Los Carrera -16009"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "043",
+    "region": "IV – Coquimbo",
+    "id_provincia": "043",
     "provincia": "Limarí",
-    "id_comuna__1": "04301",
-    "comuna": "Ovalle"
+    "id_comuna": "04301",
+    "comuna": "Ovalle",
+    "id_sucursal": "01136",
+    "sucursal": "Sucursal A36",
+    "direccion": "Av. Los Carrera -16510"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "043",
+    "region": "IV – Coquimbo",
+    "id_provincia": "043",
     "provincia": "Limarí",
-    "id_comuna__1": "04302",
-    "comuna": "Combarbalá"
+    "id_comuna": "04302",
+    "comuna": "Combarbalá",
+    "id_sucursal": "01137",
+    "sucursal": "Sucursal A37",
+    "direccion": "Av. Los Carrera -17011"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "043",
+    "region": "IV – Coquimbo",
+    "id_provincia": "043",
     "provincia": "Limarí",
-    "id_comuna__1": "04303",
-    "comuna": "Monte Patria"
+    "id_comuna": "04303",
+    "comuna": "Monte Patria",
+    "id_sucursal": "01138",
+    "sucursal": "Sucursal A38",
+    "direccion": "Av. Los Carrera -17512"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "043",
+    "region": "IV – Coquimbo",
+    "id_provincia": "043",
     "provincia": "Limarí",
-    "id_comuna__1": "04304",
-    "comuna": "Punitaqui"
+    "id_comuna": "04304",
+    "comuna": "Punitaqui",
+    "id_sucursal": "01139",
+    "sucursal": "Sucursal A39",
+    "direccion": "Av. Los Carrera -18013"
   },
   {
     "id_region": "04",
-    "region": "IV - Coquimbo",
-    "id_comuna": "043",
+    "region": "IV – Coquimbo",
+    "id_provincia": "043",
     "provincia": "Limarí",
-    "id_comuna__1": "04305",
-    "comuna": "Río Hurtado"
+    "id_comuna": "04305",
+    "comuna": "Río Hurtado",
+    "id_sucursal": "01140",
+    "sucursal": "Sucursal A40",
+    "direccion": "Av. Los Carrera -18514"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "051",
+    "id_provincia": "051",
     "provincia": "Valparaíso",
-    "id_comuna__1": "05101",
-    "comuna": "Valparaíso"
+    "id_comuna": "05101",
+    "comuna": "Valparaíso",
+    "id_sucursal": "01141",
+    "sucursal": "Sucursal A41",
+    "direccion": "Av. Los Carrera -19015"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "051",
-    "provincia": "V - Valparaíso",
-    "id_comuna__1": "05102",
-    "comuna": "Casablanca"
+    "id_provincia": "051",
+    "provincia": "Valparaíso",
+    "id_comuna": "05102",
+    "comuna": "Casablanca",
+    "id_sucursal": "01142",
+    "sucursal": "Sucursal A42",
+    "direccion": "Av. Los Carrera -19516"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "051",
-    "provincia": "V - Valparaíso",
-    "id_comuna__1": "05103",
-    "comuna": "Concón"
+    "id_provincia": "051",
+    "provincia": "Valparaíso",
+    "id_comuna": "05103",
+    "comuna": "Concón",
+    "id_sucursal": "01143",
+    "sucursal": "Sucursal A43",
+    "direccion": "Av. Los Carrera -20017"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "051",
-    "provincia": "V - Valparaíso",
-    "id_comuna__1": "05104",
-    "comuna": "Juan Fernández"
+    "id_provincia": "051",
+    "provincia": "Valparaíso",
+    "id_comuna": "05104",
+    "comuna": "Juan Fernández",
+    "id_sucursal": "01144",
+    "sucursal": "Sucursal A44",
+    "direccion": "Av. Los Carrera -20518"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "051",
-    "provincia": "V - Valparaíso",
-    "id_comuna__1": "05105",
-    "comuna": "Puchuncaví"
+    "id_provincia": "051",
+    "provincia": "Valparaíso",
+    "id_comuna": "05105",
+    "comuna": "Puchuncaví",
+    "id_sucursal": "01145",
+    "sucursal": "Sucursal A45",
+    "direccion": "Av. Los Carrera -21019"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "051",
-    "provincia": "V - Valparaíso",
-    "id_comuna__1": "05107",
-    "comuna": "Quintero"
+    "id_provincia": "051",
+    "provincia": "Valparaíso",
+    "id_comuna": "05107",
+    "comuna": "Quintero",
+    "id_sucursal": "01146",
+    "sucursal": "Sucursal A46",
+    "direccion": "Av. Los Carrera -21520"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "051",
-    "provincia": "V - Valparaíso",
-    "id_comuna__1": "05109",
-    "comuna": "Viña Del Mar"
+    "id_provincia": "051",
+    "provincia": "Valparaíso",
+    "id_comuna": "05109",
+    "comuna": "Viña Del Mar",
+    "id_sucursal": "01147",
+    "sucursal": "Sucursal A47",
+    "direccion": "Av. Los Carrera -22021"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "052",
+    "id_provincia": "052",
     "provincia": "Isla De Pascua",
-    "id_comuna__1": "05201",
-    "comuna": "Isla De Pascua"
+    "id_comuna": "05201",
+    "comuna": "Isla De Pascua",
+    "id_sucursal": "01148",
+    "sucursal": "Sucursal A48",
+    "direccion": "Av. Los Carrera -22522"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "053",
+    "id_provincia": "053",
     "provincia": "Los Andes",
-    "id_comuna__1": "05301",
-    "comuna": "Los Andes"
+    "id_comuna": "05301",
+    "comuna": "Los Andes",
+    "id_sucursal": "01149",
+    "sucursal": "Sucursal A49",
+    "direccion": "Av. Los Carrera -23023"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "053",
+    "id_provincia": "053",
     "provincia": "Los Andes",
-    "id_comuna__1": "05302",
-    "comuna": "Calle Larga"
+    "id_comuna": "05302",
+    "comuna": "Calle Larga",
+    "id_sucursal": "01150",
+    "sucursal": "Sucursal A50",
+    "direccion": "Av. Los Carrera -23524"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "053",
+    "id_provincia": "053",
     "provincia": "Los Andes",
-    "id_comuna__1": "05303",
-    "comuna": "Rinconada"
+    "id_comuna": "05303",
+    "comuna": "Rinconada",
+    "id_sucursal": "01151",
+    "sucursal": "Sucursal A51",
+    "direccion": "Av. Los Carrera -24025"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "053",
+    "id_provincia": "053",
     "provincia": "Los Andes",
-    "id_comuna__1": "05304",
-    "comuna": "San Esteban"
+    "id_comuna": "05304",
+    "comuna": "San Esteban",
+    "id_sucursal": "01152",
+    "sucursal": "Sucursal A52",
+    "direccion": "Av. Los Carrera -24526"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "054",
+    "id_provincia": "054",
     "provincia": "Petorca",
-    "id_comuna__1": "05401",
-    "comuna": "La Ligua"
+    "id_comuna": "05401",
+    "comuna": "La Ligua",
+    "id_sucursal": "01153",
+    "sucursal": "Sucursal A53",
+    "direccion": "Av. Los Carrera -25027"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "054",
+    "id_provincia": "054",
     "provincia": "Petorca",
-    "id_comuna__1": "05402",
-    "comuna": "Cabildo"
+    "id_comuna": "05402",
+    "comuna": "Cabildo",
+    "id_sucursal": "01154",
+    "sucursal": "Sucursal A54",
+    "direccion": "Av. Los Carrera -25528"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "054",
+    "id_provincia": "054",
     "provincia": "Petorca",
-    "id_comuna__1": "05403",
-    "comuna": "Papudo"
+    "id_comuna": "05403",
+    "comuna": "Papudo",
+    "id_sucursal": "01155",
+    "sucursal": "Sucursal A55",
+    "direccion": "Av. Los Carrera -26029"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "054",
+    "id_provincia": "054",
     "provincia": "Petorca",
-    "id_comuna__1": "05404",
-    "comuna": "Petorca"
+    "id_comuna": "05404",
+    "comuna": "Petorca",
+    "id_sucursal": "01156",
+    "sucursal": "Sucursal A56",
+    "direccion": "Av. Los Carrera -26530"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "054",
+    "id_provincia": "054",
     "provincia": "Petorca",
-    "id_comuna__1": "05405",
-    "comuna": "Zapallar"
+    "id_comuna": "05405",
+    "comuna": "Zapallar",
+    "id_sucursal": "01157",
+    "sucursal": "Sucursal A57",
+    "direccion": "Av. Los Carrera -27031"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "055",
+    "id_provincia": "055",
     "provincia": "Quillota",
-    "id_comuna__1": "05501",
-    "comuna": "Quillota"
+    "id_comuna": "05501",
+    "comuna": "Quillota",
+    "id_sucursal": "01158",
+    "sucursal": "Sucursal A58",
+    "direccion": "Av. Los Carrera -27532"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "055",
+    "id_provincia": "055",
     "provincia": "Quillota",
-    "id_comuna__1": "05502",
-    "comuna": "Calera"
+    "id_comuna": "05502",
+    "comuna": "Calera",
+    "id_sucursal": "01159",
+    "sucursal": "Sucursal A59",
+    "direccion": "Av. Los Carrera -28033"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "055",
+    "id_provincia": "055",
     "provincia": "Quillota",
-    "id_comuna__1": "05503",
-    "comuna": "Hijuelas"
+    "id_comuna": "05503",
+    "comuna": "Hijuelas",
+    "id_sucursal": "01160",
+    "sucursal": "Sucursal A60",
+    "direccion": "Av. Los Carrera -28534"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "055",
+    "id_provincia": "055",
     "provincia": "Quillota",
-    "id_comuna__1": "05504",
-    "comuna": "La Cruz"
+    "id_comuna": "05504",
+    "comuna": "La Cruz",
+    "id_sucursal": "01161",
+    "sucursal": "Sucursal A61",
+    "direccion": "Av. Los Carrera -29035"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "055",
+    "id_provincia": "055",
     "provincia": "Quillota",
-    "id_comuna__1": "05506",
-    "comuna": "Nogales"
+    "id_comuna": "05506",
+    "comuna": "Nogales",
+    "id_sucursal": "01162",
+    "sucursal": "Sucursal A62",
+    "direccion": "Av. Los Carrera -29536"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "056",
+    "id_provincia": "056",
     "provincia": "San Antonio",
-    "id_comuna__1": "05601",
-    "comuna": "San Antonio"
+    "id_comuna": "05601",
+    "comuna": "San Antonio",
+    "id_sucursal": "01163",
+    "sucursal": "Sucursal A63",
+    "direccion": "Av. Los Carrera -30037"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "056",
+    "id_provincia": "056",
     "provincia": "San Antonio",
-    "id_comuna__1": "05602",
-    "comuna": "Algarrobo"
+    "id_comuna": "05602",
+    "comuna": "Algarrobo",
+    "id_sucursal": "01164",
+    "sucursal": "Sucursal A64",
+    "direccion": "Av. Los Carrera -30538"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "056",
+    "id_provincia": "056",
     "provincia": "San Antonio",
-    "id_comuna__1": "05603",
-    "comuna": "Cartagena"
+    "id_comuna": "05603",
+    "comuna": "Cartagena",
+    "id_sucursal": "01165",
+    "sucursal": "Sucursal A65",
+    "direccion": "Av. Los Carrera -31039"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "056",
+    "id_provincia": "056",
     "provincia": "San Antonio",
-    "id_comuna__1": "05604",
-    "comuna": "El Quisco"
+    "id_comuna": "05604",
+    "comuna": "El Quisco",
+    "id_sucursal": "01166",
+    "sucursal": "Sucursal A66",
+    "direccion": "Av. Los Carrera -31540"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "056",
+    "id_provincia": "056",
     "provincia": "San Antonio",
-    "id_comuna__1": "05605",
-    "comuna": "El Tabo"
+    "id_comuna": "05605",
+    "comuna": "El Tabo",
+    "id_sucursal": "01167",
+    "sucursal": "Sucursal A67",
+    "direccion": "Av. Los Carrera -32041"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "056",
+    "id_provincia": "056",
     "provincia": "San Antonio",
-    "id_comuna__1": "05606",
-    "comuna": "Santo Domingo"
+    "id_comuna": "05606",
+    "comuna": "Santo Domingo",
+    "id_sucursal": "01168",
+    "sucursal": "Sucursal A68",
+    "direccion": "Av. Los Carrera -32542"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "057",
+    "id_provincia": "057",
     "provincia": "San Felipe",
-    "id_comuna__1": "05701",
-    "comuna": "San Felipe"
+    "id_comuna": "05701",
+    "comuna": "San Felipe",
+    "id_sucursal": "01169",
+    "sucursal": "Sucursal A69",
+    "direccion": "Av. Los Carrera -33043"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "057",
+    "id_provincia": "057",
     "provincia": "San Felipe",
-    "id_comuna__1": "05702",
-    "comuna": "Catemu"
+    "id_comuna": "05702",
+    "comuna": "Catemu",
+    "id_sucursal": "01170",
+    "sucursal": "Sucursal A70",
+    "direccion": "Av. Los Carrera -33544"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "057",
+    "id_provincia": "057",
     "provincia": "San Felipe",
-    "id_comuna__1": "05703",
-    "comuna": "Llaillay"
+    "id_comuna": "05703",
+    "comuna": "Llaillay",
+    "id_sucursal": "01171",
+    "sucursal": "Sucursal A71",
+    "direccion": "Av. Los Carrera -34045"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "057",
+    "id_provincia": "057",
     "provincia": "San Felipe",
-    "id_comuna__1": "05704",
-    "comuna": "Panquehue"
+    "id_comuna": "05704",
+    "comuna": "Panquehue",
+    "id_sucursal": "01172",
+    "sucursal": "Sucursal A72",
+    "direccion": "Av. Los Carrera -34546"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "057",
+    "id_provincia": "057",
     "provincia": "San Felipe",
-    "id_comuna__1": "05705",
-    "comuna": "Putaendo"
+    "id_comuna": "05705",
+    "comuna": "Putaendo",
+    "id_sucursal": "01173",
+    "sucursal": "Sucursal A73",
+    "direccion": "Av. Los Carrera -35047"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "057",
+    "id_provincia": "057",
     "provincia": "San Felipe",
-    "id_comuna__1": "05706",
-    "comuna": "Santa María"
+    "id_comuna": "05706",
+    "comuna": "Santa María",
+    "id_sucursal": "01174",
+    "sucursal": "Sucursal A74",
+    "direccion": "Av. Los Carrera -35548"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "058",
+    "id_provincia": "058",
     "provincia": "Marga Marga",
-    "id_comuna__1": "05801",
-    "comuna": "Quilpué"
+    "id_comuna": "05801",
+    "comuna": "Quilpué",
+    "id_sucursal": "01175",
+    "sucursal": "Sucursal A75",
+    "direccion": "Av. Los Carrera -36049"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "058",
+    "id_provincia": "058",
     "provincia": "Marga Marga",
-    "id_comuna__1": "05802",
-    "comuna": "Limache"
+    "id_comuna": "05802",
+    "comuna": "Limache",
+    "id_sucursal": "01176",
+    "sucursal": "Sucursal A76",
+    "direccion": "Av. Los Carrera -36550"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "058",
+    "id_provincia": "058",
     "provincia": "Marga Marga",
-    "id_comuna__1": "05803",
-    "comuna": "Olmué"
+    "id_comuna": "05803",
+    "comuna": "Olmué",
+    "id_sucursal": "01177",
+    "sucursal": "Sucursal A77",
+    "direccion": "Av. Los Carrera -37051"
   },
   {
     "id_region": "05",
     "region": "V - Valparaíso",
-    "id_comuna": "058",
+    "id_provincia": "058",
     "provincia": "Marga Marga",
-    "id_comuna__1": "05804",
-    "comuna": "Villa Alemana"
+    "id_comuna": "05804",
+    "comuna": "Villa Alemana",
+    "id_sucursal": "01178",
+    "sucursal": "Sucursal A78",
+    "direccion": "Av. Los Carrera -37552"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06101",
-    "comuna": "Rancagua"
+    "id_comuna": "06101",
+    "comuna": "Rancagua",
+    "id_sucursal": "01179",
+    "sucursal": "Sucursal A79",
+    "direccion": "Av. Los Carrera -38053"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06102",
-    "comuna": "Codegua"
+    "id_comuna": "06102",
+    "comuna": "Codegua",
+    "id_sucursal": "01180",
+    "sucursal": "Sucursal A80",
+    "direccion": "Av. Los Carrera -38554"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06103",
-    "comuna": "Coinco"
+    "id_comuna": "06103",
+    "comuna": "Coinco",
+    "id_sucursal": "01181",
+    "sucursal": "Sucursal A81",
+    "direccion": "Av. Los Carrera -39055"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06104",
-    "comuna": "Coltauco"
+    "id_comuna": "06104",
+    "comuna": "Coltauco",
+    "id_sucursal": "01182",
+    "sucursal": "Sucursal A82",
+    "direccion": "Av. Los Carrera -39556"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06105",
-    "comuna": "Doñihue"
+    "id_comuna": "06105",
+    "comuna": "Doñihue",
+    "id_sucursal": "01183",
+    "sucursal": "Sucursal A83",
+    "direccion": "Av. Los Carrera -40057"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06106",
-    "comuna": "Graneros"
+    "id_comuna": "06106",
+    "comuna": "Graneros",
+    "id_sucursal": "01184",
+    "sucursal": "Sucursal A84",
+    "direccion": "Av. Los Carrera -40558"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06107",
-    "comuna": "Las Cabras"
+    "id_comuna": "06107",
+    "comuna": "Las Cabras",
+    "id_sucursal": "01185",
+    "sucursal": "Sucursal A85",
+    "direccion": "Av. Los Carrera -41059"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06108",
-    "comuna": "Machali"
+    "id_comuna": "06108",
+    "comuna": "Machali",
+    "id_sucursal": "01186",
+    "sucursal": "Sucursal A86",
+    "direccion": "Av. Los Carrera -41560"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06109",
-    "comuna": "Malloa"
+    "id_comuna": "06109",
+    "comuna": "Malloa",
+    "id_sucursal": "01187",
+    "sucursal": "Sucursal A87",
+    "direccion": "Av. Los Carrera -42061"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06110",
-    "comuna": "Mostazal"
+    "id_comuna": "06110",
+    "comuna": "Mostazal",
+    "id_sucursal": "01188",
+    "sucursal": "Sucursal A88",
+    "direccion": "Av. Los Carrera -42562"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06111",
-    "comuna": "El Olivar"
+    "id_comuna": "06111",
+    "comuna": "El Olivar",
+    "id_sucursal": "01189",
+    "sucursal": "Sucursal A89",
+    "direccion": "Av. Los Carrera -43063"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06112",
-    "comuna": "Peumo"
+    "id_comuna": "06112",
+    "comuna": "Peumo",
+    "id_sucursal": "01190",
+    "sucursal": "Sucursal A90",
+    "direccion": "Av. Los Carrera -43564"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06113",
-    "comuna": "Pichidegua"
+    "id_comuna": "06113",
+    "comuna": "Pichidegua",
+    "id_sucursal": "01191",
+    "sucursal": "Sucursal A91",
+    "direccion": "Av. Los Carrera -44065"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06114",
-    "comuna": "Quinta De Tilcoco"
+    "id_comuna": "06114",
+    "comuna": "Quinta De Tilcoco",
+    "id_sucursal": "01192",
+    "sucursal": "Sucursal A92",
+    "direccion": "Av. Los Carrera -44566"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06115",
-    "comuna": "Rengo"
+    "id_comuna": "06115",
+    "comuna": "Rengo",
+    "id_sucursal": "01193",
+    "sucursal": "Sucursal A93",
+    "direccion": "Av. Los Carrera -45067"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06116",
-    "comuna": "Requinoa"
+    "id_comuna": "06116",
+    "comuna": "Requinoa",
+    "id_sucursal": "01194",
+    "sucursal": "Sucursal A94",
+    "direccion": "Av. Los Carrera -45568"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "061",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "061",
     "provincia": "Cachapoal",
-    "id_comuna__1": "06117",
-    "comuna": "San Vicente"
+    "id_comuna": "06117",
+    "comuna": "San Vicente",
+    "id_sucursal": "01195",
+    "sucursal": "Sucursal A95",
+    "direccion": "Av. Los Carrera -46069"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "062",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "062",
     "provincia": "Cardenal Caro",
-    "id_comuna__1": "06201",
-    "comuna": "Pichilemu"
+    "id_comuna": "06201",
+    "comuna": "Pichilemu",
+    "id_sucursal": "01196",
+    "sucursal": "Sucursal A96",
+    "direccion": "Av. Los Carrera -46570"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "062",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "062",
     "provincia": "Cardenal Caro",
-    "id_comuna__1": "06202",
-    "comuna": "La Estrella"
+    "id_comuna": "06202",
+    "comuna": "La Estrella",
+    "id_sucursal": "01197",
+    "sucursal": "Sucursal A97",
+    "direccion": "Av. Los Carrera -47071"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "062",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "062",
     "provincia": "Cardenal Caro",
-    "id_comuna__1": "06203",
-    "comuna": "Litueche"
+    "id_comuna": "06203",
+    "comuna": "Litueche",
+    "id_sucursal": "01198",
+    "sucursal": "Sucursal A98",
+    "direccion": "Av. Los Carrera -47572"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "062",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "062",
     "provincia": "Cardenal Caro",
-    "id_comuna__1": "06204",
-    "comuna": "Marchihue"
+    "id_comuna": "06204",
+    "comuna": "Marchihue",
+    "id_sucursal": "01199",
+    "sucursal": "Sucursal A99",
+    "direccion": "Av. Los Carrera -48073"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "062",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "062",
     "provincia": "Cardenal Caro",
-    "id_comuna__1": "06205",
-    "comuna": "Navidad"
+    "id_comuna": "06205",
+    "comuna": "Navidad",
+    "id_sucursal": "01200",
+    "sucursal": "Sucursal A100",
+    "direccion": "Av. Los Carrera -48574"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "062",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "062",
     "provincia": "Cardenal Caro",
-    "id_comuna__1": "06206",
-    "comuna": "Paredones"
+    "id_comuna": "06206",
+    "comuna": "Paredones",
+    "id_sucursal": "01201",
+    "sucursal": "Sucursal A101",
+    "direccion": "Av. Los Carrera -49075"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06301",
-    "comuna": "San Fernando"
+    "id_comuna": "06301",
+    "comuna": "San Fernando",
+    "id_sucursal": "01202",
+    "sucursal": "Sucursal A102",
+    "direccion": "Av. Los Carrera -49576"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06302",
-    "comuna": "Chépica"
+    "id_comuna": "06302",
+    "comuna": "Chépica",
+    "id_sucursal": "01203",
+    "sucursal": "Sucursal A103",
+    "direccion": "Av. Los Carrera -50077"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06303",
-    "comuna": "Chimbarongo"
+    "id_comuna": "06303",
+    "comuna": "Chimbarongo",
+    "id_sucursal": "01204",
+    "sucursal": "Sucursal A104",
+    "direccion": "Av. Los Carrera -50578"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06304",
-    "comuna": "Lolol"
+    "id_comuna": "06304",
+    "comuna": "Lolol",
+    "id_sucursal": "01205",
+    "sucursal": "Sucursal A105",
+    "direccion": "Av. Los Carrera -51079"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06305",
-    "comuna": "Nancagua"
+    "id_comuna": "06305",
+    "comuna": "Nancagua",
+    "id_sucursal": "01206",
+    "sucursal": "Sucursal A106",
+    "direccion": "Av. Los Carrera -51580"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06306",
-    "comuna": "Palmilla"
+    "id_comuna": "06306",
+    "comuna": "Palmilla",
+    "id_sucursal": "01207",
+    "sucursal": "Sucursal A107",
+    "direccion": "Av. Los Carrera -52081"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06307",
-    "comuna": "Peralillo"
+    "id_comuna": "06307",
+    "comuna": "Peralillo",
+    "id_sucursal": "01208",
+    "sucursal": "Sucursal A108",
+    "direccion": "Av. Los Carrera -52582"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06308",
-    "comuna": "Placilla"
+    "id_comuna": "06308",
+    "comuna": "Placilla",
+    "id_sucursal": "01209",
+    "sucursal": "Sucursal A109",
+    "direccion": "Av. Los Carrera -53083"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06309",
-    "comuna": "Pumanque"
+    "id_comuna": "06309",
+    "comuna": "Pumanque",
+    "id_sucursal": "01210",
+    "sucursal": "Sucursal A110",
+    "direccion": "Av. Los Carrera -53584"
   },
   {
     "id_region": "06",
-    "region": "VI - Libertador General Bernardo O'Higgins",
-    "id_comuna": "063",
+    "region": "VI – Libertador General Bernardo O'Higgins",
+    "id_provincia": "063",
     "provincia": "Colchagua",
-    "id_comuna__1": "06310",
-    "comuna": "Santa Cruz"
+    "id_comuna": "06310",
+    "comuna": "Santa Cruz",
+    "id_sucursal": "01211",
+    "sucursal": "Sucursal A111",
+    "direccion": "Av. Los Carrera -54085"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07101",
-    "comuna": "Talca"
+    "id_comuna": "07101",
+    "comuna": "Talca",
+    "id_sucursal": "01212",
+    "sucursal": "Sucursal A112",
+    "direccion": "Av. Los Carrera -54586"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07102",
-    "comuna": "Constitución"
+    "id_comuna": "07102",
+    "comuna": "Constitución",
+    "id_sucursal": "01213",
+    "sucursal": "Sucursal A113",
+    "direccion": "Av. Los Carrera -55087"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07103",
-    "comuna": "Curepto"
+    "id_comuna": "07103",
+    "comuna": "Curepto",
+    "id_sucursal": "01214",
+    "sucursal": "Sucursal A114",
+    "direccion": "Av. Los Carrera -55588"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07104",
-    "comuna": "Empedrado"
+    "id_comuna": "07104",
+    "comuna": "Empedrado",
+    "id_sucursal": "01215",
+    "sucursal": "Sucursal A115",
+    "direccion": "Av. Los Carrera -56089"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07105",
-    "comuna": "VII - Maule"
+    "id_comuna": "07105",
+    "comuna": "Maule",
+    "id_sucursal": "01216",
+    "sucursal": "Sucursal A116",
+    "direccion": "Av. Los Carrera -56590"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07106",
-    "comuna": "Pelarco"
+    "id_comuna": "07106",
+    "comuna": "Pelarco",
+    "id_sucursal": "01217",
+    "sucursal": "Sucursal A117",
+    "direccion": "Av. Los Carrera -57091"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07107",
-    "comuna": "Pencahue"
+    "id_comuna": "07107",
+    "comuna": "Pencahue",
+    "id_sucursal": "01218",
+    "sucursal": "Sucursal A118",
+    "direccion": "Av. Los Carrera -57592"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07108",
-    "comuna": "Río Claro"
+    "id_comuna": "07108",
+    "comuna": "Río Claro",
+    "id_sucursal": "01219",
+    "sucursal": "Sucursal A119",
+    "direccion": "Av. Los Carrera -58093"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07109",
-    "comuna": "San Clemente"
+    "id_comuna": "07109",
+    "comuna": "San Clemente",
+    "id_sucursal": "01220",
+    "sucursal": "Sucursal A120",
+    "direccion": "Av. Los Carrera -58594"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "071",
+    "region": "VII – Maule",
+    "id_provincia": "071",
     "provincia": "Talca",
-    "id_comuna__1": "07110",
-    "comuna": "San Rafael"
+    "id_comuna": "07110",
+    "comuna": "San Rafael",
+    "id_sucursal": "01221",
+    "sucursal": "Sucursal A121",
+    "direccion": "Av. Los Carrera -59095"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "072",
+    "region": "VII – Maule",
+    "id_provincia": "072",
     "provincia": "Cauquenes",
-    "id_comuna__1": "07201",
-    "comuna": "Cauquenes"
+    "id_comuna": "07201",
+    "comuna": "Cauquenes",
+    "id_sucursal": "01222",
+    "sucursal": "Sucursal A122",
+    "direccion": "Av. Los Carrera -59596"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "072",
+    "region": "VII – Maule",
+    "id_provincia": "072",
     "provincia": "Cauquenes",
-    "id_comuna__1": "07202",
-    "comuna": "Chanco"
+    "id_comuna": "07202",
+    "comuna": "Chanco",
+    "id_sucursal": "01223",
+    "sucursal": "Sucursal A123",
+    "direccion": "Av. Los Carrera -60097"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "072",
+    "region": "VII – Maule",
+    "id_provincia": "072",
     "provincia": "Cauquenes",
-    "id_comuna__1": "07203",
-    "comuna": "Pelluhue"
+    "id_comuna": "07203",
+    "comuna": "Pelluhue",
+    "id_sucursal": "01224",
+    "sucursal": "Sucursal A124",
+    "direccion": "Av. Los Carrera -60598"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "073",
+    "region": "VII – Maule",
+    "id_provincia": "073",
     "provincia": "Curicó",
-    "id_comuna__1": "07301",
-    "comuna": "Curicó"
+    "id_comuna": "07301",
+    "comuna": "Curicó",
+    "id_sucursal": "01225",
+    "sucursal": "Sucursal A125",
+    "direccion": "Av. Los Carrera -61099"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "073",
+    "region": "VII – Maule",
+    "id_provincia": "073",
     "provincia": "Curicó",
-    "id_comuna__1": "07302",
-    "comuna": "Hualañe"
+    "id_comuna": "07302",
+    "comuna": "Hualañe",
+    "id_sucursal": "01226",
+    "sucursal": "Sucursal A126",
+    "direccion": "Av. Los Carrera -61600"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "073",
+    "region": "VII – Maule",
+    "id_provincia": "073",
     "provincia": "Curicó",
-    "id_comuna__1": "07303",
-    "comuna": "Licantén"
+    "id_comuna": "07303",
+    "comuna": "Licantén",
+    "id_sucursal": "01227",
+    "sucursal": "Sucursal A127",
+    "direccion": "Av. Los Carrera -62101"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "073",
+    "region": "VII – Maule",
+    "id_provincia": "073",
     "provincia": "Curicó",
-    "id_comuna__1": "07304",
-    "comuna": "Molina"
+    "id_comuna": "07304",
+    "comuna": "Molina",
+    "id_sucursal": "01228",
+    "sucursal": "Sucursal A128",
+    "direccion": "Av. Los Carrera -62602"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "073",
+    "region": "VII – Maule",
+    "id_provincia": "073",
     "provincia": "Curicó",
-    "id_comuna__1": "07305",
-    "comuna": "Rauco"
+    "id_comuna": "07305",
+    "comuna": "Rauco",
+    "id_sucursal": "01229",
+    "sucursal": "Sucursal A129",
+    "direccion": "Av. Los Carrera -63103"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "073",
+    "region": "VII – Maule",
+    "id_provincia": "073",
     "provincia": "Curicó",
-    "id_comuna__1": "07306",
-    "comuna": "Romeral"
+    "id_comuna": "07306",
+    "comuna": "Romeral",
+    "id_sucursal": "01230",
+    "sucursal": "Sucursal A130",
+    "direccion": "Av. Los Carrera -63604"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "073",
+    "region": "VII – Maule",
+    "id_provincia": "073",
     "provincia": "Curicó",
-    "id_comuna__1": "07307",
-    "comuna": "Sagrada Familia"
+    "id_comuna": "07307",
+    "comuna": "Sagrada Familia",
+    "id_sucursal": "01231",
+    "sucursal": "Sucursal A131",
+    "direccion": "Av. Los Carrera -64105"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "073",
+    "region": "VII – Maule",
+    "id_provincia": "073",
     "provincia": "Curicó",
-    "id_comuna__1": "07308",
-    "comuna": "Teno"
+    "id_comuna": "07308",
+    "comuna": "Teno",
+    "id_sucursal": "01232",
+    "sucursal": "Sucursal A132",
+    "direccion": "Av. Los Carrera -64606"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "073",
+    "region": "VII – Maule",
+    "id_provincia": "073",
     "provincia": "Curicó",
-    "id_comuna__1": "07309",
-    "comuna": "Vichuquén"
+    "id_comuna": "07309",
+    "comuna": "Vichuquén",
+    "id_sucursal": "01233",
+    "sucursal": "Sucursal A133",
+    "direccion": "Av. Los Carrera -65107"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "074",
+    "region": "VII – Maule",
+    "id_provincia": "074",
     "provincia": "Linares",
-    "id_comuna__1": "07401",
-    "comuna": "Linares"
+    "id_comuna": "07401",
+    "comuna": "Linares",
+    "id_sucursal": "01234",
+    "sucursal": "Sucursal A134",
+    "direccion": "Av. Los Carrera -65608"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "074",
+    "region": "VII – Maule",
+    "id_provincia": "074",
     "provincia": "Linares",
-    "id_comuna__1": "07402",
-    "comuna": "Colbún"
+    "id_comuna": "07402",
+    "comuna": "Colbún",
+    "id_sucursal": "01235",
+    "sucursal": "Sucursal A135",
+    "direccion": "Av. Los Carrera -66109"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "074",
+    "region": "VII – Maule",
+    "id_provincia": "074",
     "provincia": "Linares",
-    "id_comuna__1": "07403",
-    "comuna": "Longaví"
+    "id_comuna": "07403",
+    "comuna": "Longaví",
+    "id_sucursal": "01236",
+    "sucursal": "Sucursal A136",
+    "direccion": "Av. Los Carrera -66610"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "074",
+    "region": "VII – Maule",
+    "id_provincia": "074",
     "provincia": "Linares",
-    "id_comuna__1": "07404",
-    "comuna": "Parral"
+    "id_comuna": "07404",
+    "comuna": "Parral",
+    "id_sucursal": "01237",
+    "sucursal": "Sucursal A137",
+    "direccion": "Av. Los Carrera -67111"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "074",
+    "region": "VII – Maule",
+    "id_provincia": "074",
     "provincia": "Linares",
-    "id_comuna__1": "07405",
-    "comuna": "Retiro"
+    "id_comuna": "07405",
+    "comuna": "Retiro",
+    "id_sucursal": "01238",
+    "sucursal": "Sucursal A138",
+    "direccion": "Av. Los Carrera -67612"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "074",
+    "region": "VII – Maule",
+    "id_provincia": "074",
     "provincia": "Linares",
-    "id_comuna__1": "07406",
-    "comuna": "San Javier"
+    "id_comuna": "07406",
+    "comuna": "San Javier",
+    "id_sucursal": "01239",
+    "sucursal": "Sucursal A139",
+    "direccion": "Av. Los Carrera -68113"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "074",
+    "region": "VII – Maule",
+    "id_provincia": "074",
     "provincia": "Linares",
-    "id_comuna__1": "07407",
-    "comuna": "Villa Alegre"
+    "id_comuna": "07407",
+    "comuna": "Villa Alegre",
+    "id_sucursal": "01240",
+    "sucursal": "Sucursal A140",
+    "direccion": "Av. Los Carrera -68614"
   },
   {
     "id_region": "07",
-    "region": "VII - Maule",
-    "id_comuna": "074",
+    "region": "VII – Maule",
+    "id_provincia": "074",
     "provincia": "Linares",
-    "id_comuna__1": "07408",
-    "comuna": "Yerbas Buenas"
+    "id_comuna": "07408",
+    "comuna": "Yerbas Buenas",
+    "id_sucursal": "01241",
+    "sucursal": "Sucursal A141",
+    "direccion": "Av. Los Carrera -69115"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08101",
-    "comuna": "Concepción"
+    "id_comuna": "08101",
+    "comuna": "Concepción",
+    "id_sucursal": "01242",
+    "sucursal": "Sucursal A142",
+    "direccion": "Av. Los Carrera -69616"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08102",
-    "comuna": "Coronel"
+    "id_comuna": "08102",
+    "comuna": "Coronel",
+    "id_sucursal": "01243",
+    "sucursal": "Sucursal A143",
+    "direccion": "Av. Los Carrera -70117"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08103",
-    "comuna": "Chiguayante"
+    "id_comuna": "08103",
+    "comuna": "Chiguayante",
+    "id_sucursal": "01244",
+    "sucursal": "Sucursal A144",
+    "direccion": "Av. Los Carrera -70618"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08104",
-    "comuna": "Florida"
+    "id_comuna": "08104",
+    "comuna": "Florida",
+    "id_sucursal": "01245",
+    "sucursal": "Sucursal A145",
+    "direccion": "Av. Los Carrera -71119"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08105",
-    "comuna": "Hualqui"
+    "id_comuna": "08105",
+    "comuna": "Hualqui",
+    "id_sucursal": "01246",
+    "sucursal": "Sucursal A146",
+    "direccion": "Av. Los Carrera -71620"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08106",
-    "comuna": "Lota"
+    "id_comuna": "08106",
+    "comuna": "Lota",
+    "id_sucursal": "01247",
+    "sucursal": "Sucursal A147",
+    "direccion": "Av. Los Carrera -72121"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08107",
-    "comuna": "Penco"
+    "id_comuna": "08107",
+    "comuna": "Penco",
+    "id_sucursal": "01248",
+    "sucursal": "Sucursal A148",
+    "direccion": "Av. Los Carrera -72622"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08108",
-    "comuna": "San Pedro de la Paz"
+    "id_comuna": "08108",
+    "comuna": "San Pedro de la Paz",
+    "id_sucursal": "01249",
+    "sucursal": "Sucursal A149",
+    "direccion": "Av. Los Carrera -73123"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08109",
-    "comuna": "Santa Juana"
+    "id_comuna": "08109",
+    "comuna": "Santa Juana",
+    "id_sucursal": "01250",
+    "sucursal": "Sucursal A150",
+    "direccion": "Av. Los Carrera -73624"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08110",
-    "comuna": "Talcahuano"
+    "id_comuna": "08110",
+    "comuna": "Talcahuano",
+    "id_sucursal": "01251",
+    "sucursal": "Sucursal A151",
+    "direccion": "Av. Los Carrera -74125"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08111",
-    "comuna": "Tomé"
+    "id_comuna": "08111",
+    "comuna": "Tomé",
+    "id_sucursal": "01252",
+    "sucursal": "Sucursal A152",
+    "direccion": "Av. Los Carrera -74626"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "081",
+    "region": "VIII – Biobío",
+    "id_provincia": "081",
     "provincia": "Concepción",
-    "id_comuna__1": "08112",
-    "comuna": "Hualpén"
+    "id_comuna": "08112",
+    "comuna": "Hualpén",
+    "id_sucursal": "01253",
+    "sucursal": "Sucursal A153",
+    "direccion": "Av. Los Carrera -75127"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "082",
+    "region": "VIII – Biobío",
+    "id_provincia": "082",
     "provincia": "Arauco",
-    "id_comuna__1": "08201",
-    "comuna": "Lebu"
+    "id_comuna": "08201",
+    "comuna": "Lebu",
+    "id_sucursal": "01254",
+    "sucursal": "Sucursal A154",
+    "direccion": "Av. Los Carrera -75628"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "082",
+    "region": "VIII – Biobío",
+    "id_provincia": "082",
     "provincia": "Arauco",
-    "id_comuna__1": "08202",
-    "comuna": "Arauco"
+    "id_comuna": "08202",
+    "comuna": "Arauco",
+    "id_sucursal": "01255",
+    "sucursal": "Sucursal A155",
+    "direccion": "Av. Los Carrera -76129"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "082",
+    "region": "VIII – Biobío",
+    "id_provincia": "082",
     "provincia": "Arauco",
-    "id_comuna__1": "08203",
-    "comuna": "Cañete"
+    "id_comuna": "08203",
+    "comuna": "Cañete",
+    "id_sucursal": "01256",
+    "sucursal": "Sucursal A156",
+    "direccion": "Av. Los Carrera -76630"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "082",
+    "region": "VIII – Biobío",
+    "id_provincia": "082",
     "provincia": "Arauco",
-    "id_comuna__1": "08204",
-    "comuna": "Contulmo"
+    "id_comuna": "08204",
+    "comuna": "Contulmo",
+    "id_sucursal": "01257",
+    "sucursal": "Sucursal A157",
+    "direccion": "Av. Los Carrera -77131"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "082",
+    "region": "VIII – Biobío",
+    "id_provincia": "082",
     "provincia": "Arauco",
-    "id_comuna__1": "08205",
-    "comuna": "Curanilahue"
+    "id_comuna": "08205",
+    "comuna": "Curanilahue",
+    "id_sucursal": "01258",
+    "sucursal": "Sucursal A158",
+    "direccion": "Av. Los Carrera -77632"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "082",
+    "region": "VIII – Biobío",
+    "id_provincia": "082",
     "provincia": "Arauco",
-    "id_comuna__1": "08206",
-    "comuna": "Los Alamos"
+    "id_comuna": "08206",
+    "comuna": "Los Alamos",
+    "id_sucursal": "01259",
+    "sucursal": "Sucursal A159",
+    "direccion": "Av. Los Carrera -78133"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "082",
+    "region": "VIII – Biobío",
+    "id_provincia": "082",
     "provincia": "Arauco",
-    "id_comuna__1": "08207",
-    "comuna": "Tirua"
+    "id_comuna": "08207",
+    "comuna": "Tirua",
+    "id_sucursal": "01260",
+    "sucursal": "Sucursal A160",
+    "direccion": "Av. Los Carrera -78634"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08301",
-    "comuna": "Los Angeles"
+    "id_comuna": "08301",
+    "comuna": "Los Angeles",
+    "id_sucursal": "01261",
+    "sucursal": "Sucursal A161",
+    "direccion": "Av. Los Carrera -79135"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08302",
-    "comuna": "Antuco"
+    "id_comuna": "08302",
+    "comuna": "Antuco",
+    "id_sucursal": "01262",
+    "sucursal": "Sucursal A162",
+    "direccion": "Av. Los Carrera -79636"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08303",
-    "comuna": "Cabrero"
+    "id_comuna": "08303",
+    "comuna": "Cabrero",
+    "id_sucursal": "01263",
+    "sucursal": "Sucursal A163",
+    "direccion": "Av. Los Carrera -80137"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08304",
-    "comuna": "Laja"
+    "id_comuna": "08304",
+    "comuna": "Laja",
+    "id_sucursal": "01264",
+    "sucursal": "Sucursal A164",
+    "direccion": "Av. Los Carrera -80638"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08305",
-    "comuna": "Mulchén"
+    "id_comuna": "08305",
+    "comuna": "Mulchén",
+    "id_sucursal": "01265",
+    "sucursal": "Sucursal A165",
+    "direccion": "Av. Los Carrera -81139"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08306",
-    "comuna": "Nacimiento"
+    "id_comuna": "08306",
+    "comuna": "Nacimiento",
+    "id_sucursal": "01266",
+    "sucursal": "Sucursal A166",
+    "direccion": "Av. Los Carrera -81640"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08307",
-    "comuna": "Negrete"
+    "id_comuna": "08307",
+    "comuna": "Negrete",
+    "id_sucursal": "01267",
+    "sucursal": "Sucursal A167",
+    "direccion": "Av. Los Carrera -82141"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08308",
-    "comuna": "Quilaco"
+    "id_comuna": "08308",
+    "comuna": "Quilaco",
+    "id_sucursal": "01268",
+    "sucursal": "Sucursal A168",
+    "direccion": "Av. Los Carrera -82642"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08309",
-    "comuna": "Quilleco"
+    "id_comuna": "08309",
+    "comuna": "Quilleco",
+    "id_sucursal": "01269",
+    "sucursal": "Sucursal A169",
+    "direccion": "Av. Los Carrera -83143"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08310",
-    "comuna": "San Rosendo"
+    "id_comuna": "08310",
+    "comuna": "San Rosendo",
+    "id_sucursal": "01270",
+    "sucursal": "Sucursal A170",
+    "direccion": "Av. Los Carrera -83644"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08311",
-    "comuna": "Santa Bárbara"
+    "id_comuna": "08311",
+    "comuna": "Santa Bárbara",
+    "id_sucursal": "01271",
+    "sucursal": "Sucursal A171",
+    "direccion": "Av. Los Carrera -84145"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08312",
-    "comuna": "Tucapel"
+    "id_comuna": "08312",
+    "comuna": "Tucapel",
+    "id_sucursal": "01272",
+    "sucursal": "Sucursal A172",
+    "direccion": "Av. Los Carrera -84646"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08313",
-    "comuna": "Yumbel"
+    "id_comuna": "08313",
+    "comuna": "Yumbel",
+    "id_sucursal": "01273",
+    "sucursal": "Sucursal A173",
+    "direccion": "Av. Los Carrera -85147"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "083",
+    "region": "VIII – Biobío",
+    "id_provincia": "083",
     "provincia": "Bío-Bío",
-    "id_comuna__1": "08314",
-    "comuna": "Alto VIII - Biobío"
+    "id_comuna": "08314",
+    "comuna": "Alto Biobío",
+    "id_sucursal": "01274",
+    "sucursal": "Sucursal A174",
+    "direccion": "Av. Los Carrera -85648"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08401",
-    "comuna": "Chillán"
+    "id_comuna": "08401",
+    "comuna": "Chillán",
+    "id_sucursal": "01275",
+    "sucursal": "Sucursal A175",
+    "direccion": "Av. Los Carrera -86149"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08402",
-    "comuna": "Bulnes"
+    "id_comuna": "08402",
+    "comuna": "Bulnes",
+    "id_sucursal": "01276",
+    "sucursal": "Sucursal A176",
+    "direccion": "Av. Los Carrera -86650"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08403",
-    "comuna": "Cobquecura"
+    "id_comuna": "08403",
+    "comuna": "Cobquecura",
+    "id_sucursal": "01277",
+    "sucursal": "Sucursal A177",
+    "direccion": "Av. Los Carrera -87151"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08404",
-    "comuna": "Coelemu"
+    "id_comuna": "08404",
+    "comuna": "Coelemu",
+    "id_sucursal": "01278",
+    "sucursal": "Sucursal A178",
+    "direccion": "Av. Los Carrera -87652"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08405",
-    "comuna": "Coihueco"
+    "id_comuna": "08405",
+    "comuna": "Coihueco",
+    "id_sucursal": "01279",
+    "sucursal": "Sucursal A179",
+    "direccion": "Av. Los Carrera -88153"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08406",
-    "comuna": "Chillán Viejo"
+    "id_comuna": "08406",
+    "comuna": "Chillán Viejo",
+    "id_sucursal": "01280",
+    "sucursal": "Sucursal A180",
+    "direccion": "Av. Los Carrera -88654"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08407",
-    "comuna": "El Carmen"
+    "id_comuna": "08407",
+    "comuna": "El Carmen",
+    "id_sucursal": "01281",
+    "sucursal": "Sucursal A181",
+    "direccion": "Av. Los Carrera -89155"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08408",
-    "comuna": "Ninhue"
+    "id_comuna": "08408",
+    "comuna": "Ninhue",
+    "id_sucursal": "01282",
+    "sucursal": "Sucursal A182",
+    "direccion": "Av. Los Carrera -89656"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08409",
-    "comuna": "Ñiquén"
+    "id_comuna": "08409",
+    "comuna": "Ñiquén",
+    "id_sucursal": "01283",
+    "sucursal": "Sucursal A183",
+    "direccion": "Av. Los Carrera -90157"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08410",
-    "comuna": "Pemuco"
+    "id_comuna": "08410",
+    "comuna": "Pemuco",
+    "id_sucursal": "01284",
+    "sucursal": "Sucursal A184",
+    "direccion": "Av. Los Carrera -90658"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08411",
-    "comuna": "Pinto"
+    "id_comuna": "08411",
+    "comuna": "Pinto",
+    "id_sucursal": "01285",
+    "sucursal": "Sucursal A185",
+    "direccion": "Av. Los Carrera -91159"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08412",
-    "comuna": "Portezuelo"
+    "id_comuna": "08412",
+    "comuna": "Portezuelo",
+    "id_sucursal": "01286",
+    "sucursal": "Sucursal A186",
+    "direccion": "Av. Los Carrera -91660"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08413",
-    "comuna": "Quillón"
+    "id_comuna": "08413",
+    "comuna": "Quillón",
+    "id_sucursal": "01287",
+    "sucursal": "Sucursal A187",
+    "direccion": "Av. Los Carrera -92161"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08414",
-    "comuna": "Quirihue"
+    "id_comuna": "08414",
+    "comuna": "Quirihue",
+    "id_sucursal": "01288",
+    "sucursal": "Sucursal A188",
+    "direccion": "Av. Los Carrera -92662"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08415",
-    "comuna": "Ranquil"
+    "id_comuna": "08415",
+    "comuna": "Ranquil",
+    "id_sucursal": "01289",
+    "sucursal": "Sucursal A189",
+    "direccion": "Av. Los Carrera -93163"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08416",
-    "comuna": "San Carlos"
+    "id_comuna": "08416",
+    "comuna": "San Carlos",
+    "id_sucursal": "01290",
+    "sucursal": "Sucursal A190",
+    "direccion": "Av. Los Carrera -93664"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08417",
-    "comuna": "San Fabián"
+    "id_comuna": "08417",
+    "comuna": "San Fabián",
+    "id_sucursal": "01291",
+    "sucursal": "Sucursal A191",
+    "direccion": "Av. Los Carrera -94165"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08418",
-    "comuna": "San Ignacio"
+    "id_comuna": "08418",
+    "comuna": "San Ignacio",
+    "id_sucursal": "01292",
+    "sucursal": "Sucursal A192",
+    "direccion": "Av. Los Carrera -94666"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08419",
-    "comuna": "San Nicolás"
+    "id_comuna": "08419",
+    "comuna": "San Nicolás",
+    "id_sucursal": "01293",
+    "sucursal": "Sucursal A193",
+    "direccion": "Av. Los Carrera -95167"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08420",
-    "comuna": "Treguaco"
+    "id_comuna": "08420",
+    "comuna": "Treguaco",
+    "id_sucursal": "01294",
+    "sucursal": "Sucursal A194",
+    "direccion": "Av. Los Carrera -95668"
   },
   {
     "id_region": "08",
-    "region": "VIII - Biobío",
-    "id_comuna": "084",
+    "region": "VIII – Biobío",
+    "id_provincia": "084",
     "provincia": "Ñuble",
-    "id_comuna__1": "08421",
-    "comuna": "Yungay"
+    "id_comuna": "08421",
+    "comuna": "Yungay",
+    "id_sucursal": "01295",
+    "sucursal": "Sucursal A195",
+    "direccion": "Av. Los Carrera -96169"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09101",
-    "comuna": "Temuco"
+    "id_comuna": "09101",
+    "comuna": "Temuco",
+    "id_sucursal": "01296",
+    "sucursal": "Sucursal A196",
+    "direccion": "Av. Los Carrera -96670"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09102",
-    "comuna": "Carahue"
+    "id_comuna": "09102",
+    "comuna": "Carahue",
+    "id_sucursal": "01297",
+    "sucursal": "Sucursal A197",
+    "direccion": "Av. Los Carrera -97171"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09103",
-    "comuna": "Cunco"
+    "id_comuna": "09103",
+    "comuna": "Cunco",
+    "id_sucursal": "01298",
+    "sucursal": "Sucursal A198",
+    "direccion": "Av. Los Carrera -97672"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09104",
-    "comuna": "Curarrehue"
+    "id_comuna": "09104",
+    "comuna": "Curarrehue",
+    "id_sucursal": "01299",
+    "sucursal": "Sucursal A199",
+    "direccion": "Av. Los Carrera -98173"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09105",
-    "comuna": "Freire"
+    "id_comuna": "09105",
+    "comuna": "Freire",
+    "id_sucursal": "01300",
+    "sucursal": "Sucursal A200",
+    "direccion": "Av. Los Carrera -98674"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09106",
-    "comuna": "Galvarino"
+    "id_comuna": "09106",
+    "comuna": "Galvarino",
+    "id_sucursal": "01301",
+    "sucursal": "Sucursal A201",
+    "direccion": "Av. Los Carrera -99175"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09107",
-    "comuna": "Gorbea"
+    "id_comuna": "09107",
+    "comuna": "Gorbea",
+    "id_sucursal": "01302",
+    "sucursal": "Sucursal A202",
+    "direccion": "Av. Los Carrera -99676"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09108",
-    "comuna": "Lautaro"
+    "id_comuna": "09108",
+    "comuna": "Lautaro",
+    "id_sucursal": "01303",
+    "sucursal": "Sucursal A203",
+    "direccion": "Av. Los Carrera -100177"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09109",
-    "comuna": "Loncoche"
+    "id_comuna": "09109",
+    "comuna": "Loncoche",
+    "id_sucursal": "01304",
+    "sucursal": "Sucursal A204",
+    "direccion": "Av. Los Carrera -100678"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09110",
-    "comuna": "Melipeuco"
+    "id_comuna": "09110",
+    "comuna": "Melipeuco",
+    "id_sucursal": "01305",
+    "sucursal": "Sucursal A205",
+    "direccion": "Av. Los Carrera -101179"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09111",
-    "comuna": "Nueva Imperial"
+    "id_comuna": "09111",
+    "comuna": "Nueva Imperial",
+    "id_sucursal": "01306",
+    "sucursal": "Sucursal A206",
+    "direccion": "Av. Los Carrera -101680"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09112",
-    "comuna": "Padre Las Casas"
+    "id_comuna": "09112",
+    "comuna": "Padre Las Casas",
+    "id_sucursal": "01307",
+    "sucursal": "Sucursal A207",
+    "direccion": "Av. Los Carrera -102181"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09113",
-    "comuna": "Perquenco"
+    "id_comuna": "09113",
+    "comuna": "Perquenco",
+    "id_sucursal": "01308",
+    "sucursal": "Sucursal A208",
+    "direccion": "Av. Los Carrera -102682"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09114",
-    "comuna": "Pitrufquén"
+    "id_comuna": "09114",
+    "comuna": "Pitrufquén",
+    "id_sucursal": "01309",
+    "sucursal": "Sucursal A209",
+    "direccion": "Av. Los Carrera -103183"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09115",
-    "comuna": "Pucón"
+    "id_comuna": "09115",
+    "comuna": "Pucón",
+    "id_sucursal": "01310",
+    "sucursal": "Sucursal A210",
+    "direccion": "Av. Los Carrera -103684"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09116",
-    "comuna": "Saavedra"
+    "id_comuna": "09116",
+    "comuna": "Saavedra",
+    "id_sucursal": "01311",
+    "sucursal": "Sucursal A211",
+    "direccion": "Av. Los Carrera -104185"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09117",
-    "comuna": "Teodoro Schmidt"
+    "id_comuna": "09117",
+    "comuna": "Teodoro Schmidt",
+    "id_sucursal": "01312",
+    "sucursal": "Sucursal A212",
+    "direccion": "Av. Los Carrera -104686"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09118",
-    "comuna": "Toltén"
+    "id_comuna": "09118",
+    "comuna": "Toltén",
+    "id_sucursal": "01313",
+    "sucursal": "Sucursal A213",
+    "direccion": "Av. Los Carrera -105187"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09119",
-    "comuna": "Vilcún"
+    "id_comuna": "09119",
+    "comuna": "Vilcún",
+    "id_sucursal": "01314",
+    "sucursal": "Sucursal A214",
+    "direccion": "Av. Los Carrera -105688"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09120",
-    "comuna": "Villarrica"
+    "id_comuna": "09120",
+    "comuna": "Villarrica",
+    "id_sucursal": "01315",
+    "sucursal": "Sucursal A215",
+    "direccion": "Av. Los Carrera -106189"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "091",
+    "region": "IX – La Araucanía",
+    "id_provincia": "091",
     "provincia": "Cautín",
-    "id_comuna__1": "09121",
-    "comuna": "Cholchol"
+    "id_comuna": "09121",
+    "comuna": "Cholchol",
+    "id_sucursal": "01316",
+    "sucursal": "Sucursal A216",
+    "direccion": "Av. Los Carrera -106690"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09201",
-    "comuna": "Angol"
+    "id_comuna": "09201",
+    "comuna": "Angol",
+    "id_sucursal": "01317",
+    "sucursal": "Sucursal A217",
+    "direccion": "Av. Los Carrera -107191"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09202",
-    "comuna": "Collipulli"
+    "id_comuna": "09202",
+    "comuna": "Collipulli",
+    "id_sucursal": "01318",
+    "sucursal": "Sucursal A218",
+    "direccion": "Av. Los Carrera -107692"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09203",
-    "comuna": "Curacautín"
+    "id_comuna": "09203",
+    "comuna": "Curacautín",
+    "id_sucursal": "01319",
+    "sucursal": "Sucursal A219",
+    "direccion": "Av. Los Carrera -108193"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09204",
-    "comuna": "Ercilla"
+    "id_comuna": "09204",
+    "comuna": "Ercilla",
+    "id_sucursal": "01320",
+    "sucursal": "Sucursal A220",
+    "direccion": "Av. Los Carrera -108694"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09205",
-    "comuna": "Lonquimay"
+    "id_comuna": "09205",
+    "comuna": "Lonquimay",
+    "id_sucursal": "01321",
+    "sucursal": "Sucursal A221",
+    "direccion": "Av. Los Carrera -109195"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09206",
-    "comuna": "Los Sauces"
+    "id_comuna": "09206",
+    "comuna": "Los Sauces",
+    "id_sucursal": "01322",
+    "sucursal": "Sucursal A222",
+    "direccion": "Av. Los Carrera -109696"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09207",
-    "comuna": "Lumaco"
+    "id_comuna": "09207",
+    "comuna": "Lumaco",
+    "id_sucursal": "01323",
+    "sucursal": "Sucursal A223",
+    "direccion": "Av. Los Carrera -110197"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09208",
-    "comuna": "Puren"
+    "id_comuna": "09208",
+    "comuna": "Puren",
+    "id_sucursal": "01324",
+    "sucursal": "Sucursal A224",
+    "direccion": "Av. Los Carrera -110698"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09209",
-    "comuna": "Renaico"
+    "id_comuna": "09209",
+    "comuna": "Renaico",
+    "id_sucursal": "01325",
+    "sucursal": "Sucursal A225",
+    "direccion": "Av. Los Carrera -111199"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09210",
-    "comuna": "Traiguén"
+    "id_comuna": "09210",
+    "comuna": "Traiguén",
+    "id_sucursal": "01326",
+    "sucursal": "Sucursal A226",
+    "direccion": "Av. Los Carrera -111700"
   },
   {
     "id_region": "09",
-    "region": "IX - La Araucanía",
-    "id_comuna": "092",
+    "region": "IX – La Araucanía",
+    "id_provincia": "092",
     "provincia": "Malleco",
-    "id_comuna__1": "09211",
-    "comuna": "Victoria"
+    "id_comuna": "09211",
+    "comuna": "Victoria",
+    "id_sucursal": "01327",
+    "sucursal": "Sucursal A227",
+    "direccion": "Av. Los Carrera -112201"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 101,
+    "region": "X – Los Lagos",
+    "id_provincia": 101,
     "provincia": "Llanquihue",
-    "id_comuna__1": 10101,
-    "comuna": "Puerto Montt"
+    "id_comuna": 10101,
+    "comuna": "Puerto Montt",
+    "id_sucursal": "01328",
+    "sucursal": "Sucursal A228",
+    "direccion": "Av. Los Carrera -112702"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 101,
+    "region": "X – Los Lagos",
+    "id_provincia": 101,
     "provincia": "Llanquihue",
-    "id_comuna__1": 10102,
-    "comuna": "Calbuco"
+    "id_comuna": 10102,
+    "comuna": "Calbuco",
+    "id_sucursal": "01329",
+    "sucursal": "Sucursal A229",
+    "direccion": "Av. Los Carrera -113203"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 101,
+    "region": "X – Los Lagos",
+    "id_provincia": 101,
     "provincia": "Llanquihue",
-    "id_comuna__1": 10103,
-    "comuna": "Cochamó"
+    "id_comuna": 10103,
+    "comuna": "Cochamó",
+    "id_sucursal": "01330",
+    "sucursal": "Sucursal A230",
+    "direccion": "Av. Los Carrera -113704"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 101,
+    "region": "X – Los Lagos",
+    "id_provincia": 101,
     "provincia": "Llanquihue",
-    "id_comuna__1": 10104,
-    "comuna": "Fresia"
+    "id_comuna": 10104,
+    "comuna": "Fresia",
+    "id_sucursal": "01331",
+    "sucursal": "Sucursal A231",
+    "direccion": "Av. Los Carrera -114205"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 101,
+    "region": "X – Los Lagos",
+    "id_provincia": 101,
     "provincia": "Llanquihue",
-    "id_comuna__1": 10105,
-    "comuna": "Frutillar"
+    "id_comuna": 10105,
+    "comuna": "Frutillar",
+    "id_sucursal": "01332",
+    "sucursal": "Sucursal A232",
+    "direccion": "Av. Los Carrera -114706"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 101,
+    "region": "X – Los Lagos",
+    "id_provincia": 101,
     "provincia": "Llanquihue",
-    "id_comuna__1": 10106,
-    "comuna": "Los Muermos"
+    "id_comuna": 10106,
+    "comuna": "Los Muermos",
+    "id_sucursal": "01333",
+    "sucursal": "Sucursal A233",
+    "direccion": "Av. Los Carrera -115207"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 101,
+    "region": "X – Los Lagos",
+    "id_provincia": 101,
     "provincia": "Llanquihue",
-    "id_comuna__1": 10107,
-    "comuna": "Llanquihue"
+    "id_comuna": 10107,
+    "comuna": "Llanquihue",
+    "id_sucursal": "01334",
+    "sucursal": "Sucursal A234",
+    "direccion": "Av. Los Carrera -115708"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 101,
+    "region": "X – Los Lagos",
+    "id_provincia": 101,
     "provincia": "Llanquihue",
-    "id_comuna__1": 10108,
-    "comuna": "Maullín"
+    "id_comuna": 10108,
+    "comuna": "Maullín",
+    "id_sucursal": "01335",
+    "sucursal": "Sucursal A235",
+    "direccion": "Av. Los Carrera -116209"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 101,
+    "region": "X – Los Lagos",
+    "id_provincia": 101,
     "provincia": "Llanquihue",
-    "id_comuna__1": 10109,
-    "comuna": "Puerto Varas"
+    "id_comuna": 10109,
+    "comuna": "Puerto Varas",
+    "id_sucursal": "01336",
+    "sucursal": "Sucursal A236",
+    "direccion": "Av. Los Carrera -116710"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10201,
-    "comuna": "Castro"
+    "id_comuna": 10201,
+    "comuna": "Castro",
+    "id_sucursal": "01337",
+    "sucursal": "Sucursal A237",
+    "direccion": "Av. Los Carrera -117211"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10202,
-    "comuna": "Ancud"
+    "id_comuna": 10202,
+    "comuna": "Ancud",
+    "id_sucursal": "01338",
+    "sucursal": "Sucursal A238",
+    "direccion": "Av. Los Carrera -117712"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10203,
-    "comuna": "Chonchi"
+    "id_comuna": 10203,
+    "comuna": "Chonchi",
+    "id_sucursal": "01339",
+    "sucursal": "Sucursal A239",
+    "direccion": "Av. Los Carrera -118213"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10204,
-    "comuna": "Curaco de Velez"
+    "id_comuna": 10204,
+    "comuna": "Curaco de Velez",
+    "id_sucursal": "01340",
+    "sucursal": "Sucursal A240",
+    "direccion": "Av. Los Carrera -118714"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10205,
-    "comuna": "Dalcahue"
+    "id_comuna": 10205,
+    "comuna": "Dalcahue",
+    "id_sucursal": "01341",
+    "sucursal": "Sucursal A241",
+    "direccion": "Av. Los Carrera -119215"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10206,
-    "comuna": "Puqueldón"
+    "id_comuna": 10206,
+    "comuna": "Puqueldón",
+    "id_sucursal": "01342",
+    "sucursal": "Sucursal A242",
+    "direccion": "Av. Los Carrera -119716"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10207,
-    "comuna": "Queilén"
+    "id_comuna": 10207,
+    "comuna": "Queilén",
+    "id_sucursal": "01343",
+    "sucursal": "Sucursal A243",
+    "direccion": "Av. Los Carrera -120217"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10208,
-    "comuna": "Quellón"
+    "id_comuna": 10208,
+    "comuna": "Quellón",
+    "id_sucursal": "01344",
+    "sucursal": "Sucursal A244",
+    "direccion": "Av. Los Carrera -120718"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10209,
-    "comuna": "Quemchi"
+    "id_comuna": 10209,
+    "comuna": "Quemchi",
+    "id_sucursal": "01345",
+    "sucursal": "Sucursal A245",
+    "direccion": "Av. Los Carrera -121219"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 102,
+    "region": "X – Los Lagos",
+    "id_provincia": 102,
     "provincia": "Chiloé",
-    "id_comuna__1": 10210,
-    "comuna": "Quinchao"
+    "id_comuna": 10210,
+    "comuna": "Quinchao",
+    "id_sucursal": "01346",
+    "sucursal": "Sucursal A246",
+    "direccion": "Av. Los Carrera -121720"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 103,
+    "region": "X – Los Lagos",
+    "id_provincia": 103,
     "provincia": "Osorno",
-    "id_comuna__1": 10301,
-    "comuna": "Osorno"
+    "id_comuna": 10301,
+    "comuna": "Osorno",
+    "id_sucursal": "01347",
+    "sucursal": "Sucursal A247",
+    "direccion": "Av. Los Carrera -122221"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 103,
+    "region": "X – Los Lagos",
+    "id_provincia": 103,
     "provincia": "Osorno",
-    "id_comuna__1": 10302,
-    "comuna": "Puerto Octay"
+    "id_comuna": 10302,
+    "comuna": "Puerto Octay",
+    "id_sucursal": "01348",
+    "sucursal": "Sucursal A248",
+    "direccion": "Av. Los Carrera -122722"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 103,
+    "region": "X – Los Lagos",
+    "id_provincia": 103,
     "provincia": "Osorno",
-    "id_comuna__1": 10303,
-    "comuna": "Purranque"
+    "id_comuna": 10303,
+    "comuna": "Purranque",
+    "id_sucursal": "01349",
+    "sucursal": "Sucursal A249",
+    "direccion": "Av. Los Carrera -123223"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 103,
+    "region": "X – Los Lagos",
+    "id_provincia": 103,
     "provincia": "Osorno",
-    "id_comuna__1": 10304,
-    "comuna": "Puyehue"
+    "id_comuna": 10304,
+    "comuna": "Puyehue",
+    "id_sucursal": "01350",
+    "sucursal": "Sucursal A250",
+    "direccion": "Av. Los Carrera -123724"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 103,
+    "region": "X – Los Lagos",
+    "id_provincia": 103,
     "provincia": "Osorno",
-    "id_comuna__1": 10305,
-    "comuna": "Río Negro"
+    "id_comuna": 10305,
+    "comuna": "Río Negro",
+    "id_sucursal": "01351",
+    "sucursal": "Sucursal A251",
+    "direccion": "Av. Los Carrera -124225"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 103,
+    "region": "X – Los Lagos",
+    "id_provincia": 103,
     "provincia": "Osorno",
-    "id_comuna__1": 10306,
-    "comuna": "San Juan de la Costa"
+    "id_comuna": 10306,
+    "comuna": "San Juan de la Costa",
+    "id_sucursal": "01352",
+    "sucursal": "Sucursal A252",
+    "direccion": "Av. Los Carrera -124726"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 103,
+    "region": "X – Los Lagos",
+    "id_provincia": 103,
     "provincia": "Osorno",
-    "id_comuna__1": 10307,
-    "comuna": "San Pablo"
+    "id_comuna": 10307,
+    "comuna": "San Pablo",
+    "id_sucursal": "01353",
+    "sucursal": "Sucursal A253",
+    "direccion": "Av. Los Carrera -125227"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 104,
+    "region": "X – Los Lagos",
+    "id_provincia": 104,
     "provincia": "Palena",
-    "id_comuna__1": 10401,
-    "comuna": "Chaitén"
+    "id_comuna": 10401,
+    "comuna": "Chaitén",
+    "id_sucursal": "01354",
+    "sucursal": "Sucursal A254",
+    "direccion": "Av. Los Carrera -125728"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 104,
+    "region": "X – Los Lagos",
+    "id_provincia": 104,
     "provincia": "Palena",
-    "id_comuna__1": 10402,
-    "comuna": "Futaleufú"
+    "id_comuna": 10402,
+    "comuna": "Futaleufú",
+    "id_sucursal": "01355",
+    "sucursal": "Sucursal A255",
+    "direccion": "Av. Los Carrera -126229"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 104,
+    "region": "X – Los Lagos",
+    "id_provincia": 104,
     "provincia": "Palena",
-    "id_comuna__1": 10403,
-    "comuna": "Hualaihue"
+    "id_comuna": 10403,
+    "comuna": "Hualaihue",
+    "id_sucursal": "01356",
+    "sucursal": "Sucursal A256",
+    "direccion": "Av. Los Carrera -126730"
   },
   {
     "id_region": 10,
-    "region": "X - Los Lagos",
-    "id_comuna": 104,
+    "region": "X – Los Lagos",
+    "id_provincia": 104,
     "provincia": "Palena",
-    "id_comuna__1": 10404,
-    "comuna": "Palena"
+    "id_comuna": 10404,
+    "comuna": "Palena",
+    "id_sucursal": "01357",
+    "sucursal": "Sucursal A257",
+    "direccion": "Av. Los Carrera -127231"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 111,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 111,
     "provincia": "Coihayque",
-    "id_comuna__1": 11101,
-    "comuna": "Coihayque"
+    "id_comuna": 11101,
+    "comuna": "Coihayque",
+    "id_sucursal": "01358",
+    "sucursal": "Sucursal A258",
+    "direccion": "Av. Los Carrera -127732"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 111,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 111,
     "provincia": "Coihayque",
-    "id_comuna__1": 11102,
-    "comuna": "Lago Verde"
+    "id_comuna": 11102,
+    "comuna": "Lago Verde",
+    "id_sucursal": "01359",
+    "sucursal": "Sucursal A259",
+    "direccion": "Av. Los Carrera -128233"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 112,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 112,
     "provincia": "Aisén",
-    "id_comuna__1": 11201,
-    "comuna": "Aisén"
+    "id_comuna": 11201,
+    "comuna": "Aisén",
+    "id_sucursal": "01360",
+    "sucursal": "Sucursal A260",
+    "direccion": "Av. Los Carrera -128734"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 112,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 112,
     "provincia": "Aisén",
-    "id_comuna__1": 11202,
-    "comuna": "Cisnes"
+    "id_comuna": 11202,
+    "comuna": "Cisnes",
+    "id_sucursal": "01361",
+    "sucursal": "Sucursal A261",
+    "direccion": "Av. Los Carrera -129235"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 112,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 112,
     "provincia": "Aisén",
-    "id_comuna__1": 11203,
-    "comuna": "Guaitecas"
+    "id_comuna": 11203,
+    "comuna": "Guaitecas",
+    "id_sucursal": "01362",
+    "sucursal": "Sucursal A262",
+    "direccion": "Av. Los Carrera -129736"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 113,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 113,
     "provincia": "Capitán Prat",
-    "id_comuna__1": 11301,
-    "comuna": "Cochrane"
+    "id_comuna": 11301,
+    "comuna": "Cochrane",
+    "id_sucursal": "01363",
+    "sucursal": "Sucursal A263",
+    "direccion": "Av. Los Carrera -130237"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 113,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 113,
     "provincia": "Capitán Prat",
-    "id_comuna__1": 11302,
-    "comuna": "O'Higgins"
+    "id_comuna": 11302,
+    "comuna": "O'Higgins",
+    "id_sucursal": "01364",
+    "sucursal": "Sucursal A264",
+    "direccion": "Av. Los Carrera -130738"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 113,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 113,
     "provincia": "Capitán Prat",
-    "id_comuna__1": 11303,
-    "comuna": "Tortel"
+    "id_comuna": 11303,
+    "comuna": "Tortel",
+    "id_sucursal": "01365",
+    "sucursal": "Sucursal A265",
+    "direccion": "Av. Los Carrera -131239"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 114,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 114,
     "provincia": "General Carrera",
-    "id_comuna__1": 11401,
-    "comuna": "Chile Chico"
+    "id_comuna": 11401,
+    "comuna": "Chile Chico",
+    "id_sucursal": "01366",
+    "sucursal": "Sucursal A266",
+    "direccion": "Av. Los Carrera -131740"
   },
   {
     "id_region": 11,
-    "region": "XI - Aysén del General Carlos Ibáñez del Campo",
-    "id_comuna": 114,
+    "region": "XI – Aysén del General Carlos Ibáñez del Campo",
+    "id_provincia": 114,
     "provincia": "General Carrera",
-    "id_comuna__1": 11402,
-    "comuna": "Río Ibáñez"
+    "id_comuna": 11402,
+    "comuna": "Río Ibáñez",
+    "id_sucursal": "01367",
+    "sucursal": "Sucursal A267",
+    "direccion": "Av. Los Carrera -132241"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 121,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 121,
     "provincia": "Magallanes",
-    "id_comuna__1": 12101,
-    "comuna": "Punta Arenas"
+    "id_comuna": 12101,
+    "comuna": "Punta Arenas",
+    "id_sucursal": "01368",
+    "sucursal": "Sucursal A268",
+    "direccion": "Av. Los Carrera -132742"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 121,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 121,
     "provincia": "Magallanes",
-    "id_comuna__1": 12102,
-    "comuna": "Laguna Blanca"
+    "id_comuna": 12102,
+    "comuna": "Laguna Blanca",
+    "id_sucursal": "01369",
+    "sucursal": "Sucursal A269",
+    "direccion": "Av. Los Carrera -133243"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 121,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 121,
     "provincia": "Magallanes",
-    "id_comuna__1": 12103,
-    "comuna": "Río Verde"
+    "id_comuna": 12103,
+    "comuna": "Río Verde",
+    "id_sucursal": "01370",
+    "sucursal": "Sucursal A270",
+    "direccion": "Av. Los Carrera -133744"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 121,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 121,
     "provincia": "Magallanes",
-    "id_comuna__1": 12104,
-    "comuna": "San Gregorio"
+    "id_comuna": 12104,
+    "comuna": "San Gregorio",
+    "id_sucursal": "01371",
+    "sucursal": "Sucursal A271",
+    "direccion": "Av. Los Carrera -134245"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 122,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 122,
     "provincia": "Antártica Chilena",
-    "id_comuna__1": 12201,
-    "comuna": "Cabo de Hornos"
+    "id_comuna": 12201,
+    "comuna": "Cabo de Hornos",
+    "id_sucursal": "01372",
+    "sucursal": "Sucursal A272",
+    "direccion": "Av. Los Carrera -134746"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 122,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 122,
     "provincia": "Antártica Chilena",
-    "id_comuna__1": 12202,
-    "comuna": "Antártica"
+    "id_comuna": 12202,
+    "comuna": "Antártica",
+    "id_sucursal": "01373",
+    "sucursal": "Sucursal A273",
+    "direccion": "Av. Los Carrera -135247"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 123,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 123,
     "provincia": "Tierra del Fuego",
-    "id_comuna__1": 12301,
-    "comuna": "Porvenir"
+    "id_comuna": 12301,
+    "comuna": "Porvenir",
+    "id_sucursal": "01374",
+    "sucursal": "Sucursal A274",
+    "direccion": "Av. Los Carrera -135748"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 123,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 123,
     "provincia": "Tierra del Fuego",
-    "id_comuna__1": 12302,
-    "comuna": "Primavera"
+    "id_comuna": 12302,
+    "comuna": "Primavera",
+    "id_sucursal": "01375",
+    "sucursal": "Sucursal A275",
+    "direccion": "Av. Los Carrera -136249"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 123,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 123,
     "provincia": "Tierra del Fuego",
-    "id_comuna__1": 12303,
-    "comuna": "Timaukel"
+    "id_comuna": 12303,
+    "comuna": "Timaukel",
+    "id_sucursal": "01376",
+    "sucursal": "Sucursal A276",
+    "direccion": "Av. Los Carrera -136750"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 124,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 124,
     "provincia": "Última Esperanza",
-    "id_comuna__1": 12401,
-    "comuna": "Natales"
+    "id_comuna": 12401,
+    "comuna": "Natales",
+    "id_sucursal": "01377",
+    "sucursal": "Sucursal A277",
+    "direccion": "Av. Los Carrera -137251"
   },
   {
     "id_region": 12,
-    "region": "XII - Magallanes y de la Antártica Chilena",
-    "id_comuna": 124,
+    "region": "XII – Magallanes y de la Antártica Chilena",
+    "id_provincia": 124,
     "provincia": "Última Esperanza",
-    "id_comuna__1": 12402,
-    "comuna": "Torres del Paine"
+    "id_comuna": 12402,
+    "comuna": "Torres del Paine",
+    "id_sucursal": "01378",
+    "sucursal": "Sucursal A278",
+    "direccion": "Av. Los Carrera -137752"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13101,
-    "comuna": "Santiago"
+    "id_comuna": 13101,
+    "comuna": "Santiago",
+    "id_sucursal": "01379",
+    "sucursal": "Sucursal A279",
+    "direccion": "Av. Los Carrera -138253"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13102,
-    "comuna": "Cerrillos"
+    "id_comuna": 13102,
+    "comuna": "Cerrillos",
+    "id_sucursal": "01380",
+    "sucursal": "Sucursal A280",
+    "direccion": "Av. Los Carrera -138754"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13103,
-    "comuna": "Cerro Navia"
+    "id_comuna": 13103,
+    "comuna": "Cerro Navia",
+    "id_sucursal": "01381",
+    "sucursal": "Sucursal A281",
+    "direccion": "Av. Los Carrera -139255"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13104,
-    "comuna": "Conchalí"
+    "id_comuna": 13104,
+    "comuna": "Conchalí",
+    "id_sucursal": "01382",
+    "sucursal": "Sucursal A282",
+    "direccion": "Av. Los Carrera -139756"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13105,
-    "comuna": "El Bosque"
+    "id_comuna": 13105,
+    "comuna": "El Bosque",
+    "id_sucursal": "01383",
+    "sucursal": "Sucursal A283",
+    "direccion": "Av. Los Carrera -140257"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13106,
-    "comuna": "Estación Central"
+    "id_comuna": 13106,
+    "comuna": "Estación Central",
+    "id_sucursal": "01384",
+    "sucursal": "Sucursal A284",
+    "direccion": "Av. Los Carrera -140758"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13107,
-    "comuna": "Huechuraba"
+    "id_comuna": 13107,
+    "comuna": "Huechuraba",
+    "id_sucursal": "01385",
+    "sucursal": "Sucursal A285",
+    "direccion": "Av. Los Carrera -141259"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13108,
-    "comuna": "Independencia"
+    "id_comuna": 13108,
+    "comuna": "Independencia",
+    "id_sucursal": "01386",
+    "sucursal": "Sucursal A286",
+    "direccion": "Av. Los Carrera -141760"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13109,
-    "comuna": "La Cisterna"
+    "id_comuna": 13109,
+    "comuna": "La Cisterna",
+    "id_sucursal": "01387",
+    "sucursal": "Sucursal A287",
+    "direccion": "Av. Los Carrera -142261"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13110,
-    "comuna": "La Florida"
+    "id_comuna": 13110,
+    "comuna": "La Florida",
+    "id_sucursal": "01388",
+    "sucursal": "Sucursal A288",
+    "direccion": "Av. Los Carrera -142762"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13111,
-    "comuna": "La Granja"
+    "id_comuna": 13111,
+    "comuna": "La Granja",
+    "id_sucursal": "01389",
+    "sucursal": "Sucursal A289",
+    "direccion": "Av. Los Carrera -143263"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13112,
-    "comuna": "La Pintana"
+    "id_comuna": 13112,
+    "comuna": "La Pintana",
+    "id_sucursal": "01390",
+    "sucursal": "Sucursal A290",
+    "direccion": "Av. Los Carrera -143764"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13113,
-    "comuna": "La Reina"
+    "id_comuna": 13113,
+    "comuna": "La Reina",
+    "id_sucursal": "01391",
+    "sucursal": "Sucursal A291",
+    "direccion": "Av. Los Carrera -144265"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13114,
-    "comuna": "Las Condes"
+    "id_comuna": 13114,
+    "comuna": "Las Condes",
+    "id_sucursal": "01392",
+    "sucursal": "Sucursal A292",
+    "direccion": "Av. Los Carrera -144766"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13115,
-    "comuna": "Lo Barnechea"
+    "id_comuna": 13115,
+    "comuna": "Lo Barnechea",
+    "id_sucursal": "01393",
+    "sucursal": "Sucursal A293",
+    "direccion": "Av. Los Carrera -145267"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13116,
-    "comuna": "Lo Espejo"
+    "id_comuna": 13116,
+    "comuna": "Lo Espejo",
+    "id_sucursal": "01394",
+    "sucursal": "Sucursal A294",
+    "direccion": "Av. Los Carrera -145768"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13117,
-    "comuna": "Lo Prado"
+    "id_comuna": 13117,
+    "comuna": "Lo Prado",
+    "id_sucursal": "01395",
+    "sucursal": "Sucursal A295",
+    "direccion": "Av. Los Carrera -146269"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13118,
-    "comuna": "Macul"
+    "id_comuna": 13118,
+    "comuna": "Macul",
+    "id_sucursal": "01396",
+    "sucursal": "Sucursal A296",
+    "direccion": "Av. Los Carrera -146770"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13119,
-    "comuna": "Maipú"
+    "id_comuna": 13119,
+    "comuna": "Maipú",
+    "id_sucursal": "01397",
+    "sucursal": "Sucursal A297",
+    "direccion": "Av. Los Carrera -147271"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13120,
-    "comuna": "Ñuñoa"
+    "id_comuna": 13120,
+    "comuna": "Ñuñoa",
+    "id_sucursal": "01398",
+    "sucursal": "Sucursal A298",
+    "direccion": "Av. Los Carrera -147772"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13121,
-    "comuna": "Pedro Aguirre Cerda"
+    "id_comuna": 13121,
+    "comuna": "Pedro Aguirre Cerda",
+    "id_sucursal": "01399",
+    "sucursal": "Sucursal A299",
+    "direccion": "Av. Los Carrera -148273"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13122,
-    "comuna": "Peñalolén"
+    "id_comuna": 13122,
+    "comuna": "Peñalolén",
+    "id_sucursal": "01400",
+    "sucursal": "Sucursal A300",
+    "direccion": "Av. Los Carrera -148774"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13123,
-    "comuna": "Providencia"
+    "id_comuna": 13123,
+    "comuna": "Providencia",
+    "id_sucursal": "01401",
+    "sucursal": "Sucursal A301",
+    "direccion": "Av. Los Carrera -149275"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13124,
-    "comuna": "Pudahuel"
+    "id_comuna": 13124,
+    "comuna": "Pudahuel",
+    "id_sucursal": "01402",
+    "sucursal": "Sucursal A302",
+    "direccion": "Av. Los Carrera -149776"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13125,
-    "comuna": "Quilicura"
+    "id_comuna": 13125,
+    "comuna": "Quilicura",
+    "id_sucursal": "01403",
+    "sucursal": "Sucursal A303",
+    "direccion": "Av. Los Carrera -150277"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13126,
-    "comuna": "Quinta Normal"
+    "id_comuna": 13126,
+    "comuna": "Quinta Normal",
+    "id_sucursal": "01404",
+    "sucursal": "Sucursal A304",
+    "direccion": "Av. Los Carrera -150778"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13127,
-    "comuna": "Recoleta"
+    "id_comuna": 13127,
+    "comuna": "Recoleta",
+    "id_sucursal": "01405",
+    "sucursal": "Sucursal A305",
+    "direccion": "Av. Los Carrera -151279"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13128,
-    "comuna": "Renca"
+    "id_comuna": 13128,
+    "comuna": "Renca",
+    "id_sucursal": "01406",
+    "sucursal": "Sucursal A306",
+    "direccion": "Av. Los Carrera -151780"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13129,
-    "comuna": "San Joaquín"
+    "id_comuna": 13129,
+    "comuna": "San Joaquín",
+    "id_sucursal": "01407",
+    "sucursal": "Sucursal A307",
+    "direccion": "Av. Los Carrera -152281"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13130,
-    "comuna": "San Miguel"
+    "id_comuna": 13130,
+    "comuna": "San Miguel",
+    "id_sucursal": "01408",
+    "sucursal": "Sucursal A308",
+    "direccion": "Av. Los Carrera -152782"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13131,
-    "comuna": "San Ramón"
+    "id_comuna": 13131,
+    "comuna": "San Ramón",
+    "id_sucursal": "01409",
+    "sucursal": "Sucursal A309",
+    "direccion": "Av. Los Carrera -153283"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 131,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 131,
     "provincia": "Santiago",
-    "id_comuna__1": 13132,
-    "comuna": "Vitacura"
+    "id_comuna": 13132,
+    "comuna": "Vitacura",
+    "id_sucursal": "01410",
+    "sucursal": "Sucursal A310",
+    "direccion": "Av. Los Carrera -153784"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 132,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 132,
     "provincia": "Cordillera",
-    "id_comuna__1": 13201,
-    "comuna": "Puente Alto"
+    "id_comuna": 13201,
+    "comuna": "Puente Alto",
+    "id_sucursal": "01411",
+    "sucursal": "Sucursal A311",
+    "direccion": "Av. Los Carrera -154285"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 132,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 132,
     "provincia": "Cordillera",
-    "id_comuna__1": 13202,
-    "comuna": "Pirque"
+    "id_comuna": 13202,
+    "comuna": "Pirque",
+    "id_sucursal": "01412",
+    "sucursal": "Sucursal A312",
+    "direccion": "Av. Los Carrera -154786"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 132,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 132,
     "provincia": "Cordillera",
-    "id_comuna__1": 13203,
-    "comuna": "San José De Maipo"
+    "id_comuna": 13203,
+    "comuna": "San José De Maipo",
+    "id_sucursal": "01413",
+    "sucursal": "Sucursal A313",
+    "direccion": "Av. Los Carrera -155287"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 133,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 133,
     "provincia": "Chacabuco",
-    "id_comuna__1": 13301,
-    "comuna": "Colina"
+    "id_comuna": 13301,
+    "comuna": "Colina",
+    "id_sucursal": "01414",
+    "sucursal": "Sucursal A314",
+    "direccion": "Av. Los Carrera -155788"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 133,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 133,
     "provincia": "Chacabuco",
-    "id_comuna__1": 13302,
-    "comuna": "Lampa"
+    "id_comuna": 13302,
+    "comuna": "Lampa",
+    "id_sucursal": "01415",
+    "sucursal": "Sucursal A315",
+    "direccion": "Av. Los Carrera -156289"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 133,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 133,
     "provincia": "Chacabuco",
-    "id_comuna__1": 13303,
-    "comuna": "Tiltil"
+    "id_comuna": 13303,
+    "comuna": "Tiltil",
+    "id_sucursal": "01416",
+    "sucursal": "Sucursal A316",
+    "direccion": "Av. Los Carrera -156790"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 134,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 134,
     "provincia": "Maipo",
-    "id_comuna__1": 13401,
-    "comuna": "San Bernardo"
+    "id_comuna": 13401,
+    "comuna": "San Bernardo",
+    "id_sucursal": "01417",
+    "sucursal": "Sucursal A317",
+    "direccion": "Av. Los Carrera -157291"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 134,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 134,
     "provincia": "Maipo",
-    "id_comuna__1": 13402,
-    "comuna": "Buin"
+    "id_comuna": 13402,
+    "comuna": "Buin",
+    "id_sucursal": "01418",
+    "sucursal": "Sucursal A318",
+    "direccion": "Av. Los Carrera -157792"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 134,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 134,
     "provincia": "Maipo",
-    "id_comuna__1": 13403,
-    "comuna": "Calera De Tango"
+    "id_comuna": 13403,
+    "comuna": "Calera De Tango",
+    "id_sucursal": "01419",
+    "sucursal": "Sucursal A319",
+    "direccion": "Av. Los Carrera -158293"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 134,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 134,
     "provincia": "Maipo",
-    "id_comuna__1": 13404,
-    "comuna": "Paine"
+    "id_comuna": 13404,
+    "comuna": "Paine",
+    "id_sucursal": "01420",
+    "sucursal": "Sucursal A320",
+    "direccion": "Av. Los Carrera -158794"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 135,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 135,
     "provincia": "Melipilla",
-    "id_comuna__1": 13501,
-    "comuna": "Melipilla"
+    "id_comuna": 13501,
+    "comuna": "Melipilla",
+    "id_sucursal": "01421",
+    "sucursal": "Sucursal A321",
+    "direccion": "Av. Los Carrera -159295"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 135,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 135,
     "provincia": "Melipilla",
-    "id_comuna__1": 13502,
-    "comuna": "Alhué"
+    "id_comuna": 13502,
+    "comuna": "Alhué",
+    "id_sucursal": "01422",
+    "sucursal": "Sucursal A322",
+    "direccion": "Av. Los Carrera -159796"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 135,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 135,
     "provincia": "Melipilla",
-    "id_comuna__1": 13503,
-    "comuna": "Curacaví"
+    "id_comuna": 13503,
+    "comuna": "Curacaví",
+    "id_sucursal": "01423",
+    "sucursal": "Sucursal A323",
+    "direccion": "Av. Los Carrera -160297"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 135,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 135,
     "provincia": "Melipilla",
-    "id_comuna__1": 13504,
-    "comuna": "María Pinto"
+    "id_comuna": 13504,
+    "comuna": "María Pinto",
+    "id_sucursal": "01424",
+    "sucursal": "Sucursal A324",
+    "direccion": "Av. Los Carrera -160798"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 135,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 135,
     "provincia": "Melipilla",
-    "id_comuna__1": 13505,
-    "comuna": "San Pedro"
+    "id_comuna": 13505,
+    "comuna": "San Pedro",
+    "id_sucursal": "01425",
+    "sucursal": "Sucursal A325",
+    "direccion": "Av. Los Carrera -161299"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 136,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 136,
     "provincia": "Talagante",
-    "id_comuna__1": 13601,
-    "comuna": "Talagante"
+    "id_comuna": 13601,
+    "comuna": "Talagante",
+    "id_sucursal": "01426",
+    "sucursal": "Sucursal A326",
+    "direccion": "Av. Los Carrera -161800"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 136,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 136,
     "provincia": "Talagante",
-    "id_comuna__1": 13602,
-    "comuna": "El Monte"
+    "id_comuna": 13602,
+    "comuna": "El Monte",
+    "id_sucursal": "01427",
+    "sucursal": "Sucursal A327",
+    "direccion": "Av. Los Carrera -162301"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 136,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 136,
     "provincia": "Talagante",
-    "id_comuna__1": 13603,
-    "comuna": "Isla De Maipo"
+    "id_comuna": 13603,
+    "comuna": "Isla De Maipo",
+    "id_sucursal": "01428",
+    "sucursal": "Sucursal A328",
+    "direccion": "Av. Los Carrera -162802"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 136,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 136,
     "provincia": "Talagante",
-    "id_comuna__1": 13604,
-    "comuna": "Padre Hurtado"
+    "id_comuna": 13604,
+    "comuna": "Padre Hurtado",
+    "id_sucursal": "01429",
+    "sucursal": "Sucursal A329",
+    "direccion": "Av. Los Carrera -163303"
   },
   {
     "id_region": 13,
-    "region": "XIII - Metropolitana de Santiago",
-    "id_comuna": 136,
+    "region": "XIII – Metropolitana de Santiago",
+    "id_provincia": 136,
     "provincia": "Talagante",
-    "id_comuna__1": 13605,
-    "comuna": "Peñaflor"
+    "id_comuna": 13605,
+    "comuna": "Peñaflor",
+    "id_sucursal": "01430",
+    "sucursal": "Sucursal A330",
+    "direccion": "Av. Los Carrera -163804"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 141,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 141,
     "provincia": "Valdivia",
-    "id_comuna__1": 14101,
-    "comuna": "Valdivia"
+    "id_comuna": 14101,
+    "comuna": "Valdivia",
+    "id_sucursal": "01431",
+    "sucursal": "Sucursal A331",
+    "direccion": "Av. Los Carrera -164305"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 141,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 141,
     "provincia": "Valdivia",
-    "id_comuna__1": 14102,
-    "comuna": "Corral"
+    "id_comuna": 14102,
+    "comuna": "Corral",
+    "id_sucursal": "01432",
+    "sucursal": "Sucursal A332",
+    "direccion": "Av. Los Carrera -164806"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 141,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 141,
     "provincia": "Valdivia",
-    "id_comuna__1": 14103,
-    "comuna": "Lanco"
+    "id_comuna": 14103,
+    "comuna": "Lanco",
+    "id_sucursal": "01433",
+    "sucursal": "Sucursal A333",
+    "direccion": "Av. Los Carrera -165307"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 141,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 141,
     "provincia": "Valdivia",
-    "id_comuna__1": 14104,
-    "comuna": "Los Lagos"
+    "id_comuna": 14104,
+    "comuna": "Los Lagos",
+    "id_sucursal": "01434",
+    "sucursal": "Sucursal A334",
+    "direccion": "Av. Los Carrera -165808"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 141,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 141,
     "provincia": "Valdivia",
-    "id_comuna__1": 14105,
-    "comuna": "Máfil"
+    "id_comuna": 14105,
+    "comuna": "Máfil",
+    "id_sucursal": "01435",
+    "sucursal": "Sucursal A335",
+    "direccion": "Av. Los Carrera -166309"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 141,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 141,
     "provincia": "Valdivia",
-    "id_comuna__1": 14106,
-    "comuna": "Mariquina"
+    "id_comuna": 14106,
+    "comuna": "Mariquina",
+    "id_sucursal": "01436",
+    "sucursal": "Sucursal A336",
+    "direccion": "Av. Los Carrera -166810"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 141,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 141,
     "provincia": "Valdivia",
-    "id_comuna__1": 14107,
-    "comuna": "Paillaco"
+    "id_comuna": 14107,
+    "comuna": "Paillaco",
+    "id_sucursal": "01437",
+    "sucursal": "Sucursal A337",
+    "direccion": "Av. Los Carrera -167311"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 141,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 141,
     "provincia": "Valdivia",
-    "id_comuna__1": 14108,
-    "comuna": "Panguipulli"
+    "id_comuna": 14108,
+    "comuna": "Panguipulli",
+    "id_sucursal": "01438",
+    "sucursal": "Sucursal A338",
+    "direccion": "Av. Los Carrera -167812"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 142,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 142,
     "provincia": "Ranco",
-    "id_comuna__1": 14201,
-    "comuna": "La Unión"
+    "id_comuna": 14201,
+    "comuna": "La Unión",
+    "id_sucursal": "01439",
+    "sucursal": "Sucursal A339",
+    "direccion": "Av. Los Carrera -168313"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 142,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 142,
     "provincia": "Ranco",
-    "id_comuna__1": 14202,
-    "comuna": "Futrono"
+    "id_comuna": 14202,
+    "comuna": "Futrono",
+    "id_sucursal": "01440",
+    "sucursal": "Sucursal A340",
+    "direccion": "Av. Los Carrera -168814"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 142,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 142,
     "provincia": "Ranco",
-    "id_comuna__1": 14203,
-    "comuna": "Lago Ranco"
+    "id_comuna": 14203,
+    "comuna": "Lago Ranco",
+    "id_sucursal": "01441",
+    "sucursal": "Sucursal A341",
+    "direccion": "Av. Los Carrera -169315"
   },
   {
     "id_region": 14,
-    "region": "XIV - Los Ríos",
-    "id_comuna": 142,
+    "region": "XIV – Los Ríos",
+    "id_provincia": 142,
     "provincia": "Ranco",
-    "id_comuna__1": 14204,
-    "comuna": "Río Bueno"
+    "id_comuna": 14204,
+    "comuna": "Río Bueno",
+    "id_sucursal": "01442",
+    "sucursal": "Sucursal A342",
+    "direccion": "Av. Los Carrera -169816"
   },
   {
     "id_region": 15,
-    "region": "XV Arica y Parinacota",
-    "id_comuna": 151,
+    "region": "XV – Arica y Parinacota",
+    "id_provincia": 151,
     "provincia": "Arica",
-    "id_comuna__1": 15101,
-    "comuna": "Arica"
+    "id_comuna": 15101,
+    "comuna": "Arica",
+    "id_sucursal": "01443",
+    "sucursal": "Sucursal A343",
+    "direccion": "Av. Los Carrera -170317"
   },
   {
     "id_region": 15,
-    "region": "XV Arica y Parinacota",
-    "id_comuna": 151,
+    "region": "XV – Arica y Parinacota",
+    "id_provincia": 151,
     "provincia": "Arica",
-    "id_comuna__1": 15102,
-    "comuna": "Camarones"
+    "id_comuna": 15102,
+    "comuna": "Camarones",
+    "id_sucursal": "01444",
+    "sucursal": "Sucursal A344",
+    "direccion": "Av. Los Carrera -170818"
   },
   {
     "id_region": 15,
-    "region": "XV Arica y Parinacota",
-    "id_comuna": 152,
+    "region": "XV – Arica y Parinacota",
+    "id_provincia": 152,
     "provincia": "Parinacota",
-    "id_comuna__1": 15201,
-    "comuna": "Putre"
+    "id_comuna": 15201,
+    "comuna": "Putre",
+    "id_sucursal": "01445",
+    "sucursal": "Sucursal A345",
+    "direccion": "Av. Los Carrera -171319"
   },
   {
     "id_region": 15,
-    "region": "XV Arica y Parinacota",
-    "id_comuna": 152,
+    "region": "XV – Arica y Parinacota",
+    "id_provincia": 152,
     "provincia": "Parinacota",
-    "id_comuna__1": 15202,
-    "comuna": "General Lagos"
+    "id_comuna": 15202,
+    "comuna": "General Lagos",
+    "id_sucursal": "01446",
+    "sucursal": "Sucursal A346",
+    "direccion": "Av. Los Carrera -171820"
   }
 ]

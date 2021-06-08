@@ -17,7 +17,7 @@
       <q-select
         class="busqueda__select"
         clearable
-        v-model="region"
+        v-model="regionSeleccionada"
         :options="regiones"
         option-label="region"
         label="Región"
@@ -26,17 +26,18 @@
       <q-select
         class="busqueda__select"
         clearable
-        v-model="model"
-        :options="comunas(this.region)"
-        option-label="comuna"
+        v-model="comunaSeleccionada"
+        :options="comunas"
+        option-label="nombre"
         label="Comuna"
       />
 
       <q-select
         class="busqueda__select"
         clearable
-        v-model="model"
-        :options="options"
+        v-model="sucursalSeleccionada"
+        :options="sucursales"
+        option-label="nombre"
         label="Sucursal"
       />
 
@@ -46,6 +47,7 @@
         label="VER DISPONIBILIDAD"
         push
         style="color: white"
+        :disabled="!verDisponibilidad"
         :to="{ name: 'Reservar' }"
       />
     </div>
@@ -54,14 +56,13 @@
 
 <script>
 import Banda from "../components/Banda.vue";
-import { mapGetters } from "vuex";
+import { mapState, mapGetters, mapMutations } from "vuex";
 
 export default {
   name: "Busqueda",
   data() {
     return {
       model: null,
-      region: "",
       options: ["Google", "Facebook", "Twitter", "Apple", "Oracle"]
     };
   },
@@ -69,8 +70,36 @@ export default {
     Banda
   },
   computed: {
-    ...mapGetters("data", ["regiones", "comunas"])
+    ...mapState("data", ["region", "comuna", "sucursal"]),
+    ...mapGetters("data", ["regiones", "comunas", "sucursales", "verDisponibilidad"]),
+    regionSeleccionada: {
+      get() {
+        return this.region;
+      },
+      set(val) {
+        this.setearRegion(val);
+      }
+    },
+    comunaSeleccionada: {
+      get() {
+        return this.comuna;
+      },
+      set(val) {
+        this.setearComuna(val);
+      }
+    },
+    sucursalSeleccionada: {
+      get() {
+        return this.sucursal;
+      },
+      set(val) {
+        this.setearSucursal(val);
+      }
+    }
   },
+  methods: {
+    ...mapMutations("data", ["setearRegion", "setearComuna", "setearSucursal"])
+  }
 };
 </script>
 

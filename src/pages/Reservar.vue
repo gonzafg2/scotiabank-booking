@@ -12,8 +12,14 @@
             size="lg"
           />
           <div class="flex column items-left">
-            <p class="reservar__nombre">Nombre Sucursal</p>
-            <p class="reservar__direccion">Dirección</p>
+            <p v-if="sucursal" class="reservar__nombre">
+              {{ sucursal.nombre }}
+            </p>
+            <p v-else class="reservar__nombre">Nombre Sucursal</p>
+            <p v-if="sucursal" class="reservar__direccion">
+              {{ sucursal.direccion }}
+            </p>
+            <p v-else class="reservar__direccion">Dirección</p>
           </div>
         </div>
 
@@ -76,16 +82,28 @@
 
       <div v-if="horario && ejecutivo" class="row justify-between">
         <div v-for="(bloque, i) in horario" :key="i" class="col-4">
-          <div class="reservar__horario">{{ bloque.hora }}</div>
+          <!-- <div class="reservar__horario">{{ bloque.hora }}</div> -->
+          <q-btn
+            @click="horarioClick(bloque, i)"
+            class="q-mb-md"
+            :class="seleccionado == i ? 'reservar__seleccionado' : ''"
+            :push="seleccionado !== i"
+            rounded
+            color="white"
+            text-color="dark"
+            :label="bloque.hora"
+          />
         </div>
       </div>
 
       <q-btn
         v-if="ejecutivo"
+        :disabled="!horarioSeleccionado"
         class="reservar__button"
         label="AGENDAR HORA"
         push
         style="color: white"
+        @click="confirmarHora"
       />
 
       <template v-if="!ejecutivo">
@@ -100,12 +118,49 @@
           un ejecutivo
         </div>
       </template>
+
+      <q-dialog v-model="confirmar" persistent>
+        <q-card>
+          <q-card-section class="row items-center">
+            <q-avatar icon="event" color="red" text-color="white" />
+            <span class="q-ml-sm">¿Estás seguro de agendar?.</span>
+          </q-card-section>
+
+          <q-card-actions align="right">
+            <q-btn flat label="Cancelar" color="negative" v-close-popup />
+            <q-btn
+              @click="confirmado = true"
+              flat
+              label="Si, estoy seguro"
+              color="positive"
+              v-close-popup
+            />
+          </q-card-actions>
+        </q-card>
+      </q-dialog>
+
+      <q-dialog v-model="confirmado">
+        <q-card>
+          <q-card-section>
+            <div class="text-h6">Reserva de Hora Exitosa</div>
+          </q-card-section>
+
+          <q-card-section class="q-pt-none">
+            Su hora ha sido tomada
+          </q-card-section>
+
+          <q-card-actions align="right">
+            <q-btn @click="confirmadoHora()" flat label="OK" color="positive" v-close-popup />
+          </q-card-actions>
+        </q-card>
+      </q-dialog>
     </div>
   </div>
 </template>
 
 <script>
 import Banda from "../components/Banda.vue";
+import { mapState, mapGetters, mapMutations } from "vuex";
 
 export default {
   name: "Reservar",
@@ -114,6 +169,8 @@ export default {
       model: null,
       ejecutivo: "",
       fecha: "07-06-2021",
+      confirmar: false,
+      confirmado: false,
       ejecutivos: [
         {
           id: "1",
@@ -174,16 +231,44 @@ export default {
           nombre: "Bloque 9",
           hora: "17:00 pm"
         }
-      ]
+      ],
+      seleccionado: null,
+      horarioSeleccionado: null
     };
   },
   components: {
     Banda
   },
+  computed: {
+    ...mapState("data", ["region", "comuna", "sucursal"])
+  },
   methods: {
     irBusqueda() {
       this.$router.push({ name: "Busqueda" });
-    }
+    },
+    horarioClick(bloque, index) {
+      if (this.horarioSeleccionado === bloque) {
+        this.horarioSeleccionado = null;
+      } else {
+        this.horarioSeleccionado = bloque;
+      }
+      if (this.seleccionado === index) {
+        this.seleccionado = null;
+        return;
+      }
+      this.seleccionado = index;
+    },
+    confirmarHora() {
+      this.confirmar = true;
+    },
+    confirmadoHora() {
+      this.horarioSeleccionado = null;
+      this.horarioSeleccionado = null;
+      this.limpiarReserva();
+      localStorage.clear();
+      this.$router.push({ name: "Login" });
+    },
+    ...mapMutations("data", ["limpiarReserva"])
   }
 };
 </script>
@@ -279,6 +364,10 @@ export default {
   }
   &__suc-logo {
     margin: 40px 0 20px;
+  }
+  &__seleccionado.q-btn {
+    background-color: #ec111a !important;
+    color: white !important;
   }
   &__select {
     width: 100%;
