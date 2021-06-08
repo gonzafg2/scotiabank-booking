@@ -1,0 +1,19 @@
+[debug] [2021-06-08T01:29:09.785Z] ----------------------------------------------------------------------
+[debug] [2021-06-08T01:29:09.787Z] Command:       /home/gfleming/.nvm/versions/node/v12.22.1/bin/node /usr/bin/firebase deploy --only hosting
+[debug] [2021-06-08T01:29:09.787Z] CLI Version:   9.12.1
+[debug] [2021-06-08T01:29:09.787Z] Platform:      linux
+[debug] [2021-06-08T01:29:09.787Z] Node Version:  v12.22.1
+[debug] [2021-06-08T01:29:09.788Z] Time:          Mon Jun 07 2021 21:29:09 GMT-0400 (GMT-04:00)
+[debug] [2021-06-08T01:29:09.788Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-06-08T01:29:09.795Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-06-08T01:29:09.795Z] > authorizing via signed-in user (gonzafg2@gmail.com)
+[debug] [2021-06-08T01:29:09.795Z] [iam] checking project scotiabank-booking for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2021-06-08T01:29:09.797Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/scotiabank-booking:testIamPermissions  
+ {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2021-06-08T01:29:15.692Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 08 Jun 2021 01:29:15 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=809","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-06-08T01:29:15.695Z] > refreshing access token with scopes: []
+[debug] [2021-06-08T01:29:15.695Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2021-06-08T01:29:20.783Z] <<< HTTP RESPONSE 200 {"expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","cache-control":"no-cache, no-store, max-age=0, must-revalidate","date":"Tue, 08 Jun 2021 01:29:20 GMT","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-06-08T01:29:20.791Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/scotiabank-booking [none]

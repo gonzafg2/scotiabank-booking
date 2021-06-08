@@ -42,7 +42,7 @@ export default {
   name: "Login",
   data() {
     return {
-      rut: null
+      rut: "17238755-1"
     };
   },
   methods: {
