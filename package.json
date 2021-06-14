@@ -9,7 +9,9 @@
     "lint": "eslint --ext .js,.vue ./",
     "test": "echo \"No test specified\" && exit 0",
     "hosting": "firebase deploy --only hosting",
-    "deploy": "quasar build && yarn hosting"
+    "deploy": "quasar build && yarn hosting",
+    "cordova:dev": "quasar dev -m cordova -T android -- --buildConfig=\"../build.cordova.json\"",
+    "cordova:build": "quasar build -m cordova -T android -- --buildConfig=\"../build.cordova.json\""
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
