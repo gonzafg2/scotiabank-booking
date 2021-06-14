@@ -81,7 +81,7 @@
       </template>
 
       <div v-if="horario && ejecutivo" class="row justify-between">
-        <div v-for="(bloque, i) in horario" :key="i" class="col-4">
+        <div v-for="(bloque, i) in horario" :key="i" class="col-4 text-center">
           <!-- <div class="reservar__horario">{{ bloque.hora }}</div> -->
           <q-btn
             @click="horarioClick(bloque, i)"
@@ -292,7 +292,7 @@ export default {
   align-items: center;
   padding: 0 26px;
   &__atras {
-    font-weight: 800;
+    font-weight: 700;
     font-size: 10px;
     line-height: 100%;
     margin: 5px 0 0;
@@ -305,7 +305,8 @@ export default {
     font-size: 15px;
     line-height: 20px;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
+    justify-content: center;
     text-align: center;
     letter-spacing: 0.42px;
     background-color: #ec111a;

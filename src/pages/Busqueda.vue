@@ -132,7 +132,8 @@ export default {
     font-size: 15px;
     line-height: 20px;
     display: flex;
-    align-items: flex-end;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     letter-spacing: 0.42px;
     background-color: #ec111a;
