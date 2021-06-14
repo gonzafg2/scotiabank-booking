@@ -47,7 +47,7 @@
         label="VER DISPONIBILIDAD"
         push
         style="color: white"
-        :disabled="!verDisponibilidad"
+        :disable="!verDisponibilidad"
         :to="{ name: 'Reservar' }"
       />
     </div>

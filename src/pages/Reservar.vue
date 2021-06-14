@@ -86,7 +86,11 @@
           <q-btn
             @click="horarioClick(bloque, i)"
             class="q-mb-md"
-            :class="seleccionado == i ? 'reservar__seleccionado' : ''"
+            :class="
+              seleccionado == i || i == 2 || i == 6
+                ? 'reservar__seleccionado'
+                : ''
+            "
             :push="seleccionado !== i"
             rounded
             color="white"
@@ -98,7 +102,7 @@
 
       <q-btn
         v-if="ejecutivo"
-        :disabled="!horarioSeleccionado"
+        :disable="!horarioSeleccionado"
         class="reservar__button"
         label="AGENDAR HORA"
         push
@@ -146,11 +150,18 @@
           </q-card-section>
 
           <q-card-section class="q-pt-none">
-            Su hora ha sido tomada
+            Su hora ha sido tomada correctamente. Su sala asignada es la
+            <strong>Sala N°4</strong>
           </q-card-section>
 
           <q-card-actions align="right">
-            <q-btn @click="confirmadoHora()" flat label="OK" color="positive" v-close-popup />
+            <q-btn
+              @click="confirmadoHora()"
+              flat
+              label="OK"
+              color="positive"
+              v-close-popup
+            />
           </q-card-actions>
         </q-card>
       </q-dialog>
@@ -247,6 +258,7 @@ export default {
       this.$router.push({ name: "Busqueda" });
     },
     horarioClick(bloque, index) {
+      if (index === 2 || index === 6) return;
       if (this.horarioSeleccionado === bloque) {
         this.horarioSeleccionado = null;
       } else {
