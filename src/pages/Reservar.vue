@@ -7,7 +7,7 @@
         <div class="flex items-center">
           <q-icon
             class="reservar__map"
-            style="color: #ec111a;"
+            style="color: #164B7D;"
             name="place"
             size="lg"
           />
@@ -91,7 +91,6 @@
                 ? 'reservar__seleccionado'
                 : ''
             "
-            :push="seleccionado !== i"
             rounded
             color="white"
             text-color="dark"
@@ -115,7 +114,7 @@
           v-if="!ejecutivo"
           style="width: 237px; height: 135px;"
           class="reservar__suc-logo"
-          src="~/assets/sucursal.png"
+          src="~/assets/suc.png"
         ></q-img>
         <div class="reservar__mensaje">
           Selecciona una fecha y luego <br />
@@ -126,7 +125,7 @@
       <q-dialog v-model="confirmar" persistent>
         <q-card>
           <q-card-section class="row items-center">
-            <q-avatar icon="event" color="red" text-color="white" />
+            <q-avatar icon="event" color="blue" text-color="white" />
             <span class="q-ml-sm">¿Estás seguro de agendar?.</span>
           </q-card-section>
 
@@ -136,7 +135,7 @@
               @click="confirmado = true"
               flat
               label="Si, estoy seguro"
-              color="positive"
+              color="primary"
               v-close-popup
             />
           </q-card-actions>
@@ -159,7 +158,7 @@
               @click="confirmadoHora()"
               flat
               label="OK"
-              color="positive"
+              color="primary"
               v-close-popup
             />
           </q-card-actions>
@@ -309,7 +308,7 @@ export default {
     justify-content: center;
     text-align: center;
     letter-spacing: 0.42px;
-    background-color: #ec111a;
+    background-color: #164b7d;
     color: white;
     border-radius: 14px;
     height: 50px;
@@ -365,7 +364,7 @@ export default {
     font-weight: 900;
     font-size: 20px;
     line-height: 150%;
-    color: #ec111a;
+    color: #164b7d;
     margin-bottom: 100px;
   }
   &__nombre {
@@ -379,7 +378,7 @@ export default {
     margin: 40px 0 20px;
   }
   &__seleccionado.q-btn {
-    background-color: #ec111a !important;
+    background-color: #164b7d !important;
     color: white !important;
   }
   &__select {

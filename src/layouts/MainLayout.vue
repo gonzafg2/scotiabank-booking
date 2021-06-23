@@ -8,7 +8,7 @@
           <q-img
             :to="{ name: 'Busqueda' }"
             class="layout__logo q-ml-xl"
-            src="~/assets/logo-rojo.png"
+            src="~/assets/logo-blue.png"
           ></q-img>
         </q-toolbar-title>
       </q-toolbar>

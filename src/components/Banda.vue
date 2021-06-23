@@ -1,7 +1,7 @@
 <template>
   <div class="banda">
     <div class="banda__label">{{ label }}</div>
-      <q-icon name="event" size="sm" />
+    <q-icon name="event" size="sm" />
   </div>
 </template>
 
@@ -20,7 +20,7 @@ export default {
 <style lang="scss">
 .banda {
   color: white;
-  background-color: #ec111a;
+  background-color: #164b7d;
   padding: 0 20px;
   display: flex;
   align-items: center;

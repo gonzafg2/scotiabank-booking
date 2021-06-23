@@ -1,6 +1,10 @@
 <template>
   <div class="q-pa-md login">
-    <q-img class="login__logo" src="~/assets/logo.png" spinner-color="white" />
+    <q-img
+      class="login__logo"
+      src="~/assets/logo-creasys.png"
+      spinner-color="white"
+    />
 
     <q-img class="login__mapa" src="~/assets/map.png" spinner-color="white" />
 
@@ -10,25 +14,23 @@
     </h1>
 
     <q-form @submit="Ingresar">
-      <label class="login__label">Ingresa tu RUT</label>
+      <label class="login__label">Ingresa tu Usuario</label>
       <q-input
         bg-color="white"
         class="login__input"
         outlined
         maxlength="10"
         placeholder="Ej: 17238755-1"
-        rounded
         v-model="rut"
       />
 
       <div>
         <q-btn
           class="login__button"
-          style="color: #ec111a;"
+          style="color: #164B7D;"
           icon="login"
           label="Ingresar"
           type="submit"
-          push
         />
       </div>
     </q-form>
@@ -76,10 +78,14 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .login {
   height: 100vh;
-  background-color: #ec111a;
+  background-color: #164b7d;
+  background-image: url("~assets/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -113,6 +119,9 @@ export default {
   &__input {
     width: 295px;
     margin-bottom: 50px;
+    .q-field__control {
+      border-radius: 8px;
+    }
   }
   &__button {
     width: 100%;

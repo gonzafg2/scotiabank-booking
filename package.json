@@ -1,8 +1,8 @@
 {
-  "name": "scotiabank-booking",
-  "version": "0.0.1",
-  "description": "Un proyecto para agendar horas con un ejecutivo de cuentas para banco Scotiabank",
-  "productName": "Scotiabank Booking",
+  "name": "creasys-booking",
+  "version": "0.0.5",
+  "description": "Un proyecto para agendar horas con un ejecutivo de cuentas para banco Creasys",
+  "productName": "Creasys Booking",
   "author": "Gonzalo Fleming",
   "private": true,
   "scripts": {

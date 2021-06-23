@@ -4,14 +4,14 @@
 
     <div class="busqueda">
       <q-img
-        style="width: 237px; height: 135px;"
+        style="width: 249px; height: 175px;"
         class="busqueda__sucursal"
-        src="~/assets/sucursal.png"
+        src="~/assets/suc.png"
       ></q-img>
 
       <h2 class="busqueda__titulo">
         Selecciona tu Sucursal <br />
-        Scotiabank
+        del Banco
       </h2>
 
       <q-select
@@ -30,6 +30,7 @@
         :options="comunas"
         option-label="nombre"
         label="Comuna"
+        :disable="!regionSeleccionada"
       />
 
       <q-select
@@ -39,6 +40,7 @@
         :options="sucursales"
         option-label="nombre"
         label="Sucursal"
+        :disable="!comunaSeleccionada"
       />
 
       <q-btn
@@ -71,7 +73,12 @@ export default {
   },
   computed: {
     ...mapState("data", ["region", "comuna", "sucursal"]),
-    ...mapGetters("data", ["regiones", "comunas", "sucursales", "verDisponibilidad"]),
+    ...mapGetters("data", [
+      "regiones",
+      "comunas",
+      "sucursales",
+      "verDisponibilidad"
+    ]),
     regionSeleccionada: {
       get() {
         return this.region;
@@ -110,7 +117,7 @@ export default {
   align-items: center;
   padding: 0 25px;
   &__sucursal {
-    margin-bottom: 60px;
+    margin-bottom: 0;
   }
   &__titulo {
     font-weight: 900;
@@ -136,7 +143,7 @@ export default {
     align-items: center;
     text-align: center;
     letter-spacing: 0.42px;
-    background-color: #ec111a;
+    background-color: #164b7d;
     color: white;
     border-radius: 14px;
     height: 50px;
