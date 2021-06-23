@@ -110,9 +110,9 @@ module.exports = function(/* ctx */) {
       workboxPluginMode: "GenerateSW", // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: `Scotiabank Booking`,
-        short_name: `Scotiabank Booking`,
-        description: `Un proyecto para agendar horas con un ejecutivo de cuentas para banco Scotiabank`,
+        name: `Creasys Booking`,
+        short_name: `Creasys Booking`,
+        description: `Un proyecto para agendar horas con un ejecutivo de cuentas para un banco`,
         display: "standalone",
         orientation: "portrait",
         background_color: "#ffffff",
@@ -175,7 +175,7 @@ module.exports = function(/* ctx */) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: "scotiabank-booking"
+        appId: "creasys-booking"
       },
 
       // More info: https://v1.quasar.dev/quasar-cli/developing-electron-apps/node-integration
