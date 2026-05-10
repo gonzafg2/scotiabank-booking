@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "axios": "^0.21.1",
+    "axios": "^0.32.0",
     "core-js": "^3.6.5",
     "firebase": "^8.6.5",
     "quasar": "^1.0.0"
@@ -43,5 +43,11 @@
     "node": ">= 10.18.1",
     "npm": ">= 6.13.4",
     "yarn": ">= 1.21.1"
+  },
+  "resolutions": {
+    "protobufjs": "^7.5.5",
+    "@babel/plugin-transform-modules-systemjs": "^7.29.4",
+    "axios": "^0.32.0",
+    "xmldom": "^0.6.0"
   }
 }
